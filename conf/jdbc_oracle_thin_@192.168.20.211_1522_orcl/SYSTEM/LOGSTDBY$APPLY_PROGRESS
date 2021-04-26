@@ -1,0 +1,9 @@
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COMMIT_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COMMIT_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=2000, identityColumn=NO
+column="`XIDUSN`","`XIDSLT`","`XIDSQN`","`COMMIT_SCN`","`COMMIT_TIME`","`SPARE1`","`SPARE2`","`SPARE3`"

@@ -1,0 +1,9 @@
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BO#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`POS#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEGCOL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INTCOL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`OBJ#`","`BO#`","`COL#`","`POS#`","`SEGCOL#`","`INTCOL#`","`LOGMNR_UID`","`LOGMNR_FLAGS`"

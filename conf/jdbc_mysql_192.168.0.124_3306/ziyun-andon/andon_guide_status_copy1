@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`guide_sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`guide_org_hcode`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`guide_status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tombstone`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`guide_sso_id`","`guide_org_hcode`","`guide_status`","`tombstone`","`create_dt`","`update_dt`"

@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`idm_client_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`iot_component_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`deploy_host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`started_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`stoped_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`last_updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`component_order_index`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`template_unique_id`","`idm_client_id`","`iot_component_name`","`deploy_host`","`started_time`","`stoped_time`","`last_updated_time`","`status`","`component_order_index`"

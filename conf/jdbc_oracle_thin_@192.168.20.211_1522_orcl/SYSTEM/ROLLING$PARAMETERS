@@ -1,0 +1,16 @@
+columnName=`SCOPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=32, identityColumn=NO
+columnName=`ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DESCRIP`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`TYPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DATATYPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTRIBUTES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CURVAL`, dataType=String, dataLength=1024, identityColumn=NO
+columnName=`LSTVAL`, dataType=String, dataLength=1024, identityColumn=NO
+columnName=`DEFVAL`, dataType=String, dataLength=1024, identityColumn=NO
+columnName=`MINVAL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MAXVAL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=128, identityColumn=NO
+column="`SCOPE`","`NAME`","`ID`","`DESCRIP`","`TYPE`","`DATATYPE`","`ATTRIBUTES`","`CURVAL`","`LSTVAL`","`DEFVAL`","`MINVAL`","`MAXVAL`","`SPARE1`","`SPARE2`","`SPARE3`"

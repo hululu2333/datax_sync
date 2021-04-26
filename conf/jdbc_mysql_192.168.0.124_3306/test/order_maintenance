@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`amount`, dataType=Long, characterSetName=null, columnKey=
+columnName=`unit`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`period_of_validity`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`unit_price`, dataType=Double, characterSetName=null, columnKey=
+columnName=`order_amount`, dataType=Double, characterSetName=null, columnKey=
+columnName=`discount`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`preferential_amount`, dataType=Double, characterSetName=null, columnKey=
+columnName=`actual_amount`, dataType=Double, characterSetName=null, columnKey=
+columnName=`remarks`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_num`, dataType=String, characterSetName=utf8, columnKey=MUL
+column="`id`","`amount`","`unit`","`period_of_validity`","`unit_price`","`order_amount`","`discount`","`preferential_amount`","`actual_amount`","`remarks`","`order_num`"

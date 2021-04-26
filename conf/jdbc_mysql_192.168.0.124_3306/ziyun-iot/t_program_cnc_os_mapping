@@ -1,0 +1,4 @@
+columnName=`collector_program_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`cnc_os_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`collector_program_id`","`cnc_os_id`","`create_time`"

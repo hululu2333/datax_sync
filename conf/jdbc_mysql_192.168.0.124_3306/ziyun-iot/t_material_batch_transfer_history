@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`over_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`accept_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`over_batch`, dataType=Long, characterSetName=null, columnKey=
+columnName=`number`, dataType=Long, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`accept_batch`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`over_by`","`accept_by`","`over_batch`","`number`","`status`","`accept_batch`","`hierarchy_code`","`created_time`","`is_deleted`"

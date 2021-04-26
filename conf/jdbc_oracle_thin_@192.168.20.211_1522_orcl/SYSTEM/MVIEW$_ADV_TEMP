@@ -1,0 +1,4 @@
+columnName=`ID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEQ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TEXT`, dataType=String, dataLength=0, identityColumn=NO
+column="`ID#`","`SEQ#`","`TEXT`"

@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`calculate_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`wristband_access_day`, dataType=Long, characterSetName=null, columnKey=
+columnName=`wristband_online_day`, dataType=Long, characterSetName=null, columnKey=
+columnName=`collection_record_day`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_registered_day`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_access_day`, dataType=Long, characterSetName=null, columnKey=
+columnName=`battery_event_low_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`disassemble_event_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`collection_off_event_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`calculate_dt`","`wristband_access_day`","`wristband_online_day`","`collection_record_day`","`org_registered_day`","`org_access_day`","`battery_event_low_count`","`disassemble_event_count`","`collection_off_event_count`","`create_dt`"

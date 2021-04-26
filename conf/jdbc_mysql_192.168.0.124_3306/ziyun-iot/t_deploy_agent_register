@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ip`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pid`, dataType=Long, characterSetName=null, columnKey=
+columnName=`last_update_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`name`","`host`","`ip`","`create_date`","`status`","`pid`","`last_update_date`"

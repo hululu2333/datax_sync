@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`level_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`level_name`","`hierarchy_code`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`"

@@ -1,0 +1,13 @@
+columnName=`RECOMMENDED_ACTION`, dataType=String, dataLength=6, identityColumn=NO
+columnName=`MVIEW_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`GROUPING_LEVELS`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`RUNID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ALL_TABLES`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`RECOMMENDATION_NUMBER`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STORAGE_IN_BYTES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FACT_TABLES`, dataType=String, dataLength=1000, identityColumn=NO
+columnName=`BENEFIT_TO_COST_RATIO`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`QUERY_TEXT`, dataType=String, dataLength=0, identityColumn=NO
+columnName=`PCT_PERFORMANCE_GAIN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MVIEW_OWNER`, dataType=String, dataLength=128, identityColumn=NO
+column="`RECOMMENDED_ACTION`","`MVIEW_NAME`","`GROUPING_LEVELS`","`RUNID`","`ALL_TABLES`","`RECOMMENDATION_NUMBER`","`STORAGE_IN_BYTES`","`FACT_TABLES`","`BENEFIT_TO_COST_RATIO`","`QUERY_TEXT`","`PCT_PERFORMANCE_GAIN`","`MVIEW_OWNER`"

@@ -1,0 +1,3 @@
+columnName=`pbox_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`mac_address`, dataType=String, characterSetName=utf8, columnKey=
+column="`pbox_no`","`mac_address`"

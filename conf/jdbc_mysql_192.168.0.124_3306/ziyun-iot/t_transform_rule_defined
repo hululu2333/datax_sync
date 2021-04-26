@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`expression`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`attribute_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`transform_rule_id`, dataType=Long, characterSetName=null, columnKey=MUL
+column="`id`","`expression`","`attribute_id`","`create_time`","`create_user_idm_no`","`update_time`","`update_user_idm_no`","`transform_rule_id`"

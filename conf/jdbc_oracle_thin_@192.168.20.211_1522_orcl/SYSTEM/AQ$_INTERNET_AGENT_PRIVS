@@ -1,0 +1,3 @@
+columnName=`AGENT_NAME`, dataType=String, dataLength=512, identityColumn=NO
+columnName=`DB_USERNAME`, dataType=String, dataLength=128, identityColumn=NO
+column="`AGENT_NAME`","`DB_USERNAME`"

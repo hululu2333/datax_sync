@@ -1,0 +1,15 @@
+columnName=`DIRECTID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PHASE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TASKID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FEATURE`, dataType=String, dataLength=32, identityColumn=NO
+columnName=`DESCRIPTION`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`TARGET`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=String, dataLength=64, identityColumn=NO
+columnName=`OPCODE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`P1`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`P2`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`P3`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=256, identityColumn=NO
+column="`DIRECTID`","`PHASE`","`TASKID`","`FEATURE`","`DESCRIPTION`","`TARGET`","`FLAGS`","`OPCODE`","`P1`","`P2`","`P3`","`SPARE1`","`SPARE2`","`SPARE3`"

@@ -1,0 +1,16 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`pbox_storage_public_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pbox_storage_private_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pbox_public_key_sha256`, dataType=String, characterSetName=utf8, columnKey=UNI
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`pbox_agreement_public_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`server_agreement_public_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`server_agreement_private_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`server_agreement_private_key_s_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`agreement_secret_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`agreement_cipher_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`agreement_cipher_instance`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`agreement_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`agreement_secret_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`agreement_pbox_confirmation_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`pbox_storage_public_key`","`pbox_storage_private_key`","`pbox_public_key_sha256`","`create_time`","`pbox_agreement_public_key`","`server_agreement_public_key`","`server_agreement_private_key`","`server_agreement_private_key_s_value`","`agreement_secret_key`","`agreement_cipher_name`","`agreement_cipher_instance`","`agreement_status`","`agreement_secret_time`","`agreement_pbox_confirmation_time`"

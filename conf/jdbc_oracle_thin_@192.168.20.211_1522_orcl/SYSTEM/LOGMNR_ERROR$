@@ -1,0 +1,10 @@
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TIME_OF_ERROR`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`CODE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MESSAGE`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE4`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE5`, dataType=String, dataLength=4000, identityColumn=NO
+column="`SESSION#`","`TIME_OF_ERROR`","`CODE`","`MESSAGE`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`","`SPARE5`"

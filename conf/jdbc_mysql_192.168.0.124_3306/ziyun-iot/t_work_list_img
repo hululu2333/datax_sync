@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`img_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`type`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`work_list_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`processing_record_id`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`img_url`","`type`","`created_by`","`created_time`","`is_deleted`","`work_list_id`","`processing_record_id`"

@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`boundary_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`boundary_value`","`org_hierarchy_code`","`create_date`"

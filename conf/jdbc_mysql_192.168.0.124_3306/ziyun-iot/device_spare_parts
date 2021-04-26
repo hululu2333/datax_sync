@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`spare_parts_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`specification`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`register_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`maintenance_cycle`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`spare_parts_no`","`name`","`specification`","`type`","`register_time`","`maintenance_cycle`","`hierarchy_code`","`device_id`","`template_id`","`create_time`","`update_time`"

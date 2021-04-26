@@ -1,0 +1,48 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "mysqlreader", 
+                    "parameter": {
+                        "column": [ ${mysql_columns} ], 
+                        "connection": [
+                            {
+                                "jdbcUrl": ["${mysql_url}"], 
+                                "table": ["${mysql_table}"]
+                            }
+                        ], 
+                        "password": "${mysql_password}", 
+                        "username": "${mysql_username}", 
+                        "where": "${increment_field_name} > '${start_time}' and ${increment_field_name1} < '${end_time}'"
+                    }
+                }, 
+                "writer": {
+                     "name": "hdfswriter",
+                    "parameter": {
+                        "fileType": "text",
+                        "path": "${hive_table_path}",
+                        "fileName": "${hive_table_name}",
+                        "column": [ ${hive_columns} ],
+                        "writeMode": "append",
+                        "fieldDelimiter": "\t",
+                        "compress":"gzip",
+						"defaultFS": "hdfs://nameservice1",
+						"hadoopConfig": {
+						"dfs.nameservices": "nameservice1",
+						"dfs.ha.namenodes.nameservice1": "nn1,nn2",
+						"dfs.namenode.rpc-address.nameservice1.nn1": "ziyunbd01:8020",
+						"dfs.namenode.rpc-address.nameservice1.nn2": "ziyunbd02:8020",
+						"dfs.client.failover.proxy.provider.nameservice1": "org.apache.hadoop.hdfs.server.namenode.ha.ConfiguredFailoverProxyProvider"
+						}
+					}
+				}
+			}
+        ], 
+        "setting": {
+            "speed": {
+                "channel": "1"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`record_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`group_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`group_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`h_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`device_id`","`template_unique_id`","`sso_id`","`org_hierarchy_code`","`record_type`","`group_name`","`group_id`","`h_code`","`created_time`"

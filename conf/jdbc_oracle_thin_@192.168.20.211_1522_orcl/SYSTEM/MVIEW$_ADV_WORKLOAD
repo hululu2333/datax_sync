@@ -1,0 +1,16 @@
+columnName=`QUERYID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COLLECTIONID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COLLECTTIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`APPLICATION`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`CARDINALITY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RESULTSIZE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`UNAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`QDATE`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`PRIORITY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`EXEC_TIME`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SQL_TEXTLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SQL_HASH`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SQL_ADDR`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SQL_TEXT`, dataType=String, dataLength=0, identityColumn=NO
+column="`QUERYID#`","`COLLECTIONID#`","`COLLECTTIME`","`APPLICATION`","`CARDINALITY`","`RESULTSIZE`","`UNAME`","`QDATE`","`PRIORITY`","`EXEC_TIME`","`SQL_TEXTLEN`","`SQL_HASH`","`SQL_ADDR`","`FREQUENCY`","`SQL_TEXT`"

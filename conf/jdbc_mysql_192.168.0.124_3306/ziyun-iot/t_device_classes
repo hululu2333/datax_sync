@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`classes_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`from_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`to_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`classes_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`enable_classes`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`device_id`","`org_hierarchy_code`","`classes_name`","`from_time`","`to_time`","`create_time`","`update_time`","`status`","`classes_type`","`enable_classes`"

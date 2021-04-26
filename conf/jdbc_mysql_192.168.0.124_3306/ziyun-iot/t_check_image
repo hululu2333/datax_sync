@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`img_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`img_title`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`img_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`sort`, dataType=Long, characterSetName=null, columnKey=
+columnName=`img_desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`object_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`is_delete`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`img_url`","`img_title`","`img_type`","`sort`","`img_desc`","`created_time`","`updated_time`","`object_id`","`is_delete`"

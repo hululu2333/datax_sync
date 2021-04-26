@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8mb4, columnKey=UNI
+columnName=`device_position`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`org_hcode`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`device_id`","`device_position`","`org_hcode`"

@@ -1,0 +1,4 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`pbox_model_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`collector_version_id`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`pbox_model_id`","`collector_version_id`"

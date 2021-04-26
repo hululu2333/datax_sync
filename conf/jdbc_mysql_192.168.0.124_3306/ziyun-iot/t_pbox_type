@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`type_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_bind_multiple_device`, dataType=Long, characterSetName=null, columnKey=
+columnName=`version`, dataType=Bytes, characterSetName=null, columnKey=
+columnName=`description`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_can_remote_ops`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`type_name`","`is_bind_multiple_device`","`version`","`description`","`create_time`","`update_time`","`is_can_remote_ops`"

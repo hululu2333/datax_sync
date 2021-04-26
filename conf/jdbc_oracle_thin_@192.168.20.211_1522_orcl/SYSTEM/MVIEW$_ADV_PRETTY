@@ -1,0 +1,3 @@
+columnName=`QUERYID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SQL_TEXT`, dataType=String, dataLength=0, identityColumn=NO
+column="`QUERYID#`","`SQL_TEXT`"

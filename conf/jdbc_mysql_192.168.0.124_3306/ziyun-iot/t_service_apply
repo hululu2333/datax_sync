@@ -1,0 +1,12 @@
+columnName=`apply_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`service_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`service_desc`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`service_value`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`contact_phone`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`app_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`apply_id`","`service_name`","`service_desc`","`service_value`","`create_by`","`contact_phone`","`update_by`","`create_dt`","`update_dt`","`status`","`app_id`"

@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`closing_type_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`start_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`end_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`alteration_start_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`alteration_end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by_SSOID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`device_status`","`closing_type_id`","`hierarchy_code`","`start_time`","`end_time`","`alteration_start_time`","`alteration_end_time`","`update_by_SSOID`","`create_time`","`update_time`"

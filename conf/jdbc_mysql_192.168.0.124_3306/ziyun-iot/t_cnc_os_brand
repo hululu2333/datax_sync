@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`cnc_brand`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`brand_logo_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`cnc_brand`","`brand_logo_url`","`create_time`","`update_time`"

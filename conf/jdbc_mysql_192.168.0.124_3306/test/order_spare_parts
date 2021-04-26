@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`spare_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`spare_num`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`unit`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`price`, dataType=Double, characterSetName=null, columnKey=
+columnName=`order_price`, dataType=Double, characterSetName=null, columnKey=
+columnName=`discount`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dis_price`, dataType=Double, characterSetName=null, columnKey=
+columnName=`actual_price`, dataType=Double, characterSetName=null, columnKey=
+columnName=`remarks`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_num`, dataType=String, characterSetName=utf8, columnKey=MUL
+column="`id`","`spare_name`","`spare_num`","`unit`","`num`","`price`","`order_price`","`discount`","`dis_price`","`actual_price`","`remarks`","`order_num`"

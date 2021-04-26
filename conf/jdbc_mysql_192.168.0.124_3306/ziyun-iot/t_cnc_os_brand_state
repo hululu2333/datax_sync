@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`cnc_os_brand_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`device_state_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`exp_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`cnc_os_brand_id`","`device_state_id`","`exp_id`","`create_time`","`update_time`"

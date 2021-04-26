@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`protocol_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`configuration_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`configuration_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_template_id`, dataType=Long, characterSetName=null, columnKey=MUL
+column="`id`","`protocol_id`","`configuration_name`","`configuration_value`","`create_time`","`create_user_idm_no`","`update_time`","`update_user_idm_no`","`device_template_id`"

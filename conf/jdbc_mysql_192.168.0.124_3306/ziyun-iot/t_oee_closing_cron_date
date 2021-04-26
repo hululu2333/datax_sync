@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`day_number`, dataType=Long, characterSetName=null, columnKey=
+columnName=`plan_cron_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`day_number`","`plan_cron_id`","`is_deleted`","`update_by`","`update_time`"

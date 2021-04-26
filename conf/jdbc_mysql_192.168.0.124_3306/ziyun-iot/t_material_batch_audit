@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`batch_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`appraiser`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`auditer`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`batch_id`","`appraiser`","`auditer`","`status`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`"

@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`program_version_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`send_frequency`, dataType=Long, characterSetName=null, columnKey=
+columnName=`default`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`program_version_id`","`send_frequency`","`default`"

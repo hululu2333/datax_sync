@@ -1,0 +1,13 @@
+columnName=`BRANCH_LEVEL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DB_ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RESET_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RESET_TIMESTAMP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PREV_RESET_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PREV_RESET_TIMESTAMP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE4`, dataType=Date, dataLength=7, identityColumn=NO
+column="`BRANCH_LEVEL`","`SESSION#`","`DB_ID`","`RESET_SCN`","`RESET_TIMESTAMP`","`PREV_RESET_SCN`","`PREV_RESET_TIMESTAMP`","`STATUS`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`"

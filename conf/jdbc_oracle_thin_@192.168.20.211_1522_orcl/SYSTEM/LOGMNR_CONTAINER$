@@ -1,0 +1,13 @@
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CON_ID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CON_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CREATE_SCNWRP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CREATE_SCNBAS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`VSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FED_ROOT_CON_ID#`, dataType=Long, dataLength=22, identityColumn=NO
+column="`OBJ#`","`CON_ID#`","`DBID`","`CON_UID`","`CREATE_SCNWRP`","`CREATE_SCNBAS`","`FLAGS`","`STATUS`","`LOGMNR_UID`","`LOGMNR_FLAGS`","`VSN`","`FED_ROOT_CON_ID#`"

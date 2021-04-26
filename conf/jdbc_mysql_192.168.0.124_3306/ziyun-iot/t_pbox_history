@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`PBOX_ID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ORG_HIERARCHY_CODE`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`STATUS`, dataType=Long, characterSetName=null, columnKey=
+columnName=`CREATE_DT`, dataType=Date, characterSetName=null, columnKey=
+columnName=`SSO_ID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`DEVICE_ID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`COLLECTOR_ID`, dataType=Long, characterSetName=null, columnKey=
+columnName=`VERSION_ID`, dataType=Long, characterSetName=null, columnKey=
+columnName=`UPGRADE_MESSAGE`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`PBOX_ID`","`ORG_HIERARCHY_CODE`","`STATUS`","`CREATE_DT`","`SSO_ID`","`DEVICE_ID`","`COLLECTOR_ID`","`VERSION_ID`","`UPGRADE_MESSAGE`"

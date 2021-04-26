@@ -1,0 +1,7 @@
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OWNER`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`TABLE_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`DIMENSION_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`RELATIONSHIP`, dataType=String, dataLength=11, identityColumn=NO
+columnName=`BAD_ROWID`, dataType=matching fail, dataLength=10, identityColumn=NO
+column="`RUNID#`","`OWNER`","`TABLE_NAME`","`DIMENSION_NAME`","`RELATIONSHIP`","`BAD_ROWID`"

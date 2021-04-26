@@ -1,0 +1,23 @@
+columnName=`REVISION`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PHASE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BATCHID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COORDID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OPRIMARY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FPRIMARY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INSTANCE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBTOTAL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBACTIVE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOCATION`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`INIT_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`BUILD_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`START_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`SWITCH_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`FINISH_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`LAST_INSTID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LAST_BATCHID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=128, identityColumn=NO
+column="`REVISION`","`PHASE`","`BATCHID`","`STATUS`","`COORDID`","`OPRIMARY`","`FPRIMARY`","`PID`","`INSTANCE`","`DBTOTAL`","`DBACTIVE`","`LOCATION`","`INIT_TIME`","`BUILD_TIME`","`START_TIME`","`SWITCH_TIME`","`FINISH_TIME`","`LAST_INSTID`","`LAST_BATCHID`","`SPARE1`","`SPARE2`","`SPARE3`"

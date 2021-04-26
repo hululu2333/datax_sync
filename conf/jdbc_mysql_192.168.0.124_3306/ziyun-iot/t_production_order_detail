@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`prod_order_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`drawing_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`prod_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`num_of_batches`, dataType=Long, characterSetName=null, columnKey=
+columnName=`planned_completed_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`prod_order_id`","`drawing_id`","`prod_num`","`num_of_batches`","`planned_completed_time`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`"

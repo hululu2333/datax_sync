@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`closing_type_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`type_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`belong_department`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_create_work_list`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`closing_type_name`","`create_time`","`org_hierarchy_code`","`type_status`","`update_time`","`create_by`","`update_by`","`belong_department`","`is_create_work_list`"

@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8mb4, columnKey=MUL
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`device_name`, dataType=String, characterSetName=utf8mb4, columnKey=MUL
+columnName=`nick_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`last_data_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`dev_template_unique_id`","`device_name`","`nick_name`","`status`","`create_date`","`last_data_time`"

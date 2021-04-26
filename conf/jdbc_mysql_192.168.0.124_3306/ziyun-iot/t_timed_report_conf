@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`calculate_hcode`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`function_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`message_template_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`send_interval`, dataType=Long, characterSetName=null, columnKey=
+columnName=`open_rate_setting`, dataType=Double, characterSetName=null, columnKey=
+columnName=`production_rate_setting`, dataType=Double, characterSetName=null, columnKey=
+columnName=`last_calculate_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`calculate_hcode`","`function_code`","`message_template_code`","`status`","`send_interval`","`open_rate_setting`","`production_rate_setting`","`last_calculate_time`","`create_time`","`update_time`","`update_by`"

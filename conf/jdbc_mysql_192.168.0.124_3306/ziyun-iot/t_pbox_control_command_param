@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`command_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`param_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`param_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`param_value_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`param_value_allow_null`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`command_name`","`param_type`","`param_name`","`param_value_type`","`param_value_allow_null`"

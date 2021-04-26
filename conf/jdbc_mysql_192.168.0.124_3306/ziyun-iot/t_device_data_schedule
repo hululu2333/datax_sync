@@ -1,0 +1,16 @@
+columnName=`schedlue_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`schedule_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`time_interval`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`schedule_service_class`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`schedule_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`target_redis`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`target_redis_key`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`target_kafka`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`target_kafka_topic`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`target_mongo`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`target_mongo_collection`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`execute_unit`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+column="`schedlue_id`","`schedule_name`","`time_interval`","`hierarchy_code`","`schedule_service_class`","`schedule_status`","`target_redis`","`target_redis_key`","`target_kafka`","`target_kafka_topic`","`target_mongo`","`target_mongo_collection`","`execute_unit`","`update_time`","`update_by`"

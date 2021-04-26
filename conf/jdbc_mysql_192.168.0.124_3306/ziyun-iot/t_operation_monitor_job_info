@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8mb4, columnKey=MUL
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`job_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`job_type`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`calculate_number`, dataType=Long, characterSetName=null, columnKey=
+columnName=`calculate_time`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`dev_template_unique_id`","`job_id`","`job_type`","`status`","`calculate_number`","`calculate_time`","`create_date`","`update_date`"

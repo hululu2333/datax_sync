@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_info_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`content`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_info_id`","`content`","`status`","`create_date`","`update_date`"

@@ -1,0 +1,15 @@
+columnName=`record_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`qualify_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`prod_plan_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`inspector_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_unqualified`, dataType=Long, characterSetName=null, columnKey=
+columnName=`qc_level_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`unqualified_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`records_detail_relation_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`record_id`","`order_id`","`qualify_id`","`order_no`","`prod_plan_id`","`sso_id`","`inspector_name`","`is_unqualified`","`qc_level_id`","`count`","`unqualified_no`","`create_time`","`update_time`","`records_detail_relation_id`"

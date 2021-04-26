@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`start_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`spindle_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`max_speed`, dataType=Long, characterSetName=null, columnKey=
+columnName=`max_load`, dataType=Double, characterSetName=null, columnKey=
+columnName=`max_temperature`, dataType=Double, characterSetName=null, columnKey=
+columnName=`min_speed`, dataType=Long, characterSetName=null, columnKey=
+columnName=`min_load`, dataType=Double, characterSetName=null, columnKey=
+columnName=`min_temperature`, dataType=Double, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`template_id`","`status`","`start_time`","`end_time`","`spindle_name`","`max_speed`","`max_load`","`max_temperature`","`min_speed`","`min_load`","`min_temperature`","`create_time`"

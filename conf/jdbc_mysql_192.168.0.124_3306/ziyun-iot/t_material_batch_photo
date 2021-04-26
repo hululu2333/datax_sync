@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`url`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`batch_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`url`","`batch_id`","`type`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`"

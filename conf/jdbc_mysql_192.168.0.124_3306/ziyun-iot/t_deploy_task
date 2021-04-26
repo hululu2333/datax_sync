@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ip`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`deploy_path`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`deploy_task_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`host`","`ip`","`deploy_path`","`deploy_task_type`","`state`","`create_time`"

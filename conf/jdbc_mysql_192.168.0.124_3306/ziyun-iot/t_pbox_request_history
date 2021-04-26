@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`mac_address`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`config_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_success`, dataType=Long, characterSetName=null, columnKey=
+columnName=`calculate_result`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`mac_address`","`create_time`","`config_type`","`is_success`","`calculate_result`"

@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`company_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`company_size`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`company_addr`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`contact_information`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`order_id`","`company_name`","`company_size`","`company_addr`","`contact_information`","`update_time`","`create_time`"

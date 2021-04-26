@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`app_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`app_secret`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sign_mark`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`description`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`app_id`","`app_secret`","`sign_mark`","`description`","`state`","`create_date`"

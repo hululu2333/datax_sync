@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`table_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`table_column`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`table_column_mean`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`modify_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`column_explain_helper`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`relation_table`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`relation_table_pk_column`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`relation_table_show_column`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`column_explain_enum`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`table_name`","`table_column`","`table_column_mean`","`modify_type`","`column_explain_helper`","`relation_table`","`relation_table_pk_column`","`relation_table_show_column`","`column_explain_enum`"

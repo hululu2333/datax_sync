@@ -1,0 +1,11 @@
+columnName=`ACTION`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NAME2`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NAME3`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NAME4`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NAME5`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`REG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=2000, identityColumn=NO
+column="`ACTION`","`NAME`","`NAME2`","`NAME3`","`NAME4`","`NAME5`","`REG`","`SPARE1`","`SPARE2`","`SPARE3`"

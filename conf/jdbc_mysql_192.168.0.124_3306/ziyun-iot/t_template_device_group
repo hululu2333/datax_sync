@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_dev_group_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_dev_group_desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`idm_hcode`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_idm_userno`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_idm_userno`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`cpl_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_delete`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`template_dev_group_name`","`template_dev_group_desc`","`template_id`","`template_unique_id`","`idm_hcode`","`create_idm_userno`","`update_date`","`update_idm_userno`","`cpl_id`","`status`","`is_delete`","`org_hierarchy_code`","`create_date`"

@@ -1,0 +1,9 @@
+columnName=`RANK`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CUMULATIVE_BENEFIT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MVIEW_OWNER`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`RUNID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MVIEW_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`BENEFIT_TO_COST_RATIO`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STORAGE_IN_BYTES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+column="`RANK`","`CUMULATIVE_BENEFIT`","`MVIEW_OWNER`","`RUNID`","`MVIEW_NAME`","`BENEFIT_TO_COST_RATIO`","`STORAGE_IN_BYTES`","`FREQUENCY`"

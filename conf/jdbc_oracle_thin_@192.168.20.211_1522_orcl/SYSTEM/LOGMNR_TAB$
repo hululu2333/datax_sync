@@ -1,0 +1,15 @@
+columnName=`TS#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COLS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PROPERTY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INTCOLS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`KERNELCOLS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TRIGFLAG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ACDRFLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ACDRTSOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ACDRROWTSINTCOL#`, dataType=Long, dataLength=22, identityColumn=NO
+column="`TS#`","`COLS`","`PROPERTY`","`INTCOLS`","`KERNELCOLS`","`BOBJ#`","`TRIGFLAG`","`FLAGS`","`OBJ#`","`LOGMNR_UID`","`LOGMNR_FLAGS`","`ACDRFLAGS`","`ACDRTSOBJ#`","`ACDRROWTSINTCOL#`"

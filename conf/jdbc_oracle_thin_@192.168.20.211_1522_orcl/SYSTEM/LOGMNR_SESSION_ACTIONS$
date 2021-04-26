@@ -1,0 +1,35 @@
+columnName=`FLAGSRUNTIME`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DROPSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MODIFYTIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`DISPATCHTIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`DROPTIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`LCRCOUNT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ACTIONNAME`, dataType=String, dataLength=30, identityColumn=NO
+columnName=`LOGMNRSESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PROCESSROLE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ACTIONTYPE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGSDEFINETIME`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CREATETIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`THREAD#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STARTSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STARTSUBSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ENDSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ENDSUBSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RBASQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RBABLK`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RBABYTE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTR1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTR2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTR3`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`SPARE4`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`PDBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PDB_NAME`, dataType=String, dataLength=390, identityColumn=NO
+column="`FLAGSRUNTIME`","`DROPSCN`","`MODIFYTIME`","`DISPATCHTIME`","`DROPTIME`","`LCRCOUNT`","`ACTIONNAME`","`LOGMNRSESSION#`","`PROCESSROLE#`","`ACTIONTYPE#`","`FLAGSDEFINETIME`","`CREATETIME`","`XIDUSN`","`XIDSLT`","`XIDSQN`","`THREAD#`","`STARTSCN`","`STARTSUBSCN`","`ENDSCN`","`ENDSUBSCN`","`RBASQN`","`RBABLK`","`RBABYTE`","`SESSION#`","`OBJ#`","`ATTR1`","`ATTR2`","`ATTR3`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`","`PDBID`","`PDB_NAME`"

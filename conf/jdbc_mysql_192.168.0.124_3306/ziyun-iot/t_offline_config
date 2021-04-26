@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`value`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`value`","`org_hierarchy_code`","`create_time`","`update_time`"

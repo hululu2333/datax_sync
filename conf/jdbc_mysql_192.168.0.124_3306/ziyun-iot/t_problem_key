@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`problem_types_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`problem_key`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`company_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`problem_types_id`","`problem_key`","`hierarchy_code`","`company_hierarchy_code`","`created_by`","`created_time`","`is_deleted`","`org_hierarchy_code`"

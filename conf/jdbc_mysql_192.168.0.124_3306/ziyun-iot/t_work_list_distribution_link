@@ -1,0 +1,3 @@
+columnName=`distribution_flow_records_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`distribution_id`, dataType=Long, characterSetName=null, columnKey=
+column="`distribution_flow_records_id`","`distribution_id`"

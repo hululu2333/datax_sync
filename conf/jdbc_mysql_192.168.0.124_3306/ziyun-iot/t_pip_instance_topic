@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`topic`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`mq_component`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`topic_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`topic`","`mq_component`","`topic_type`","`desc`","`create_time`","`update_time`"

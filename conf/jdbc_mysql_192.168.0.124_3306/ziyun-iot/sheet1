@@ -1,0 +1,11 @@
+columnName=`序号`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`设备别名`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`控制系统类型`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`IP`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`DeviceID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`PBOXID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`控制系统版本`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`设备型号`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`IMEI`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`备注`, dataType=String, characterSetName=utf8, columnKey=
+column="`序号`","`设备别名`","`控制系统类型`","`IP`","`DeviceID`","`PBOXID`","`控制系统版本`","`设备型号`","`IMEI`","`备注`"

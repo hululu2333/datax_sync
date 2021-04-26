@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`service_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`nick_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sequence`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`service_name`","`nick_name`","`sequence`","`org_hierarchy_code`"

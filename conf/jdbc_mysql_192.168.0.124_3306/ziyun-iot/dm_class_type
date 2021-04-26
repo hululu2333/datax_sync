@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`class_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`start_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`class_name`","`start_time`","`end_time`","`hierarchy_code`","`org_hierarchy_code`","`status`","`update_time`","`update_by`","`is_deleted`"

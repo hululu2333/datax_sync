@@ -1,0 +1,9 @@
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PDB_NAME`, dataType=String, dataLength=390, identityColumn=NO
+columnName=`PDBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=4000, identityColumn=NO
+column="`SPARE2`","`SPARE1`","`PDB_NAME`","`PDBID`","`XIDSLT`","`XIDSQN`","`XIDUSN`","`SPARE3`"

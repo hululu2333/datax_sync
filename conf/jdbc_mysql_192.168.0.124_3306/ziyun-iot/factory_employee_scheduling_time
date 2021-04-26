@@ -1,0 +1,9 @@
+columnName=`emp_sche_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`employee_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`start_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`emp_sche_id`","`sso_id`","`employee_name`","`start_time`","`end_time`","`hierarchy_code`","`create_time`","`update_time`"

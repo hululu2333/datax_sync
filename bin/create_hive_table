@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# 传入数据库的名字和数据源配置文件的路径
+# 如./create_hive_table mysql_test /software/datax/sync/conf/jdbc:mysql:192.168.0.124:3306/test
+# 然后去hive中判断这些库和表存不存在，不存在的话就创建
+
+# 配置一些环境变量
+hive=/hive/apache-hive-3.1.2/bin/beeline
+database_name=$1
+conf_path=$2
+base_path=$(cd `dirname $0`;pwd)
+
+# 验证环境变量
+if [ ! -f ${hive} ]; then
+    echo "找不到hive的安装目录"
+    exit 1
+fi
+if [ ! -d ${conf_path} ]; then
+    echo "找不到表配置的目录"
+    exit 1
+fi
+
+
+# 创建数据库
+sql1="create database if not exists \`${database_name}\` location '/user/hive/warehouse/${database_name}';"
+echo ${sql1} > ${base_path}/../temp/$$.temp
+echo "建库语句存入临时文件"
+
+# 开始读取表配置，并挨个的构建建表语句
+for table in $(ls ${conf_path})
+do
+    #echo "表名："${table} 
+    variables=$(cat ${conf_path}/${table} | grep columnName | cut -d ',' -f 1,2 | tr -s "\n" " " | sed 's/columnName=//g' | sed 's/, dataType=/-/g' | sed 's/ /,/g' | sed 's/-/ /g' | sed 's/Long/BIGINT/g' | sed 's/Double/DOUBLE/g' | sed 's/String/STRING/g' | sed 's/Boolean/BOOLEAN/g' | sed 's/Date/DATE/g')
+    echo ${variables%?}
+
+    sql2="create table if not exists \`${database_name}\`.\`${table}\` (${variables%?}) row format delimited fields terminated by '\t';"
+    echo ${sql2} >> ${base_path}/../temp/$$.temp
+    echo "一条建表语句被加入临时文件"
+
+done
+
+$hive -u jdbc:hive2://192.168.0.61:10000 -n root -f ${base_path}/../temp/$$.temp 
+#> /dev/null 2>&1
+echo "建库建表语句执行完成"
+
+rm -f ${base_path}/../temp/$$.temp
+

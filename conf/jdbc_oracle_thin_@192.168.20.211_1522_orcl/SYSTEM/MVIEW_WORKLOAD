@@ -1,0 +1,13 @@
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`QUERYID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PRIORITY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`WORKLOADID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OWNER`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`QUERY`, dataType=String, dataLength=0, identityColumn=NO
+columnName=`APPLICATION`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`CARDINALITY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`IMPORT_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`RESULTSIZE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RESPONSETIME`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LASTUSE`, dataType=Date, dataLength=7, identityColumn=NO
+column="`FREQUENCY`","`QUERYID`","`PRIORITY`","`WORKLOADID`","`OWNER`","`QUERY`","`APPLICATION`","`CARDINALITY`","`IMPORT_TIME`","`RESULTSIZE`","`RESPONSETIME`","`LASTUSE`"

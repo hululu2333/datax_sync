@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`calc_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_uniqueId`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`offline`, dataType=Long, characterSetName=null, columnKey=
+columnName=`connect`, dataType=Long, characterSetName=null, columnKey=
+columnName=`event_count`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`calc_time`","`device_id`","`template_uniqueId`","`org_code`","`domain_id`","`offline`","`connect`","`event_count`"

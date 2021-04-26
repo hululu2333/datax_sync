@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status_nbr`, dataType=Long, characterSetName=null, columnKey=
+columnName=`start_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status_duration`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`finish_parts_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`start_timestamp`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`device_id`","`hierarchy_code`","`status_nbr`","`start_time`","`end_time`","`status_duration`","`finish_parts_num`","`dev_template_unique_id`","`update_time`","`create_time`","`start_timestamp`"

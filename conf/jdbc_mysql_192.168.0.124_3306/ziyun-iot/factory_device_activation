@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`activation`, dataType=Double, characterSetName=null, columnKey=MUL
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`app_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`running_time`, dataType=Long, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`activation`","`hierarchy_code`","`app_id`","`running_time`","`update_time`","`create_time`"

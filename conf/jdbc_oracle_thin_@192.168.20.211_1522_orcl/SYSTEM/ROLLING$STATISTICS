@@ -1,0 +1,14 @@
+columnName=`STATID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RDBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTRIBUTES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TYPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`VALUESTR`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`VALUENUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`VALUETS`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`VALUEINT`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`UPDATE_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=128, identityColumn=NO
+column="`STATID`","`RDBID`","`ATTRIBUTES`","`TYPE`","`NAME`","`VALUESTR`","`VALUENUM`","`VALUETS`","`VALUEINT`","`UPDATE_TIME`","`SPARE1`","`SPARE2`","`SPARE3`"

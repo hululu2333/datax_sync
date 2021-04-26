@@ -1,0 +1,11 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_SCNBAS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_SCNWRP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`END_SCNBAS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`END_SCNWRP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`REDO_THREAD`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RBASQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RBABLK`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RBABYTE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`LOGMNR_UID`","`START_SCNBAS`","`START_SCNWRP`","`END_SCNBAS`","`END_SCNWRP`","`REDO_THREAD`","`RBASQN`","`RBABLK`","`RBABYTE`","`LOGMNR_FLAGS`"

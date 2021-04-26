@@ -1,0 +1,16 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`qrcode_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_num`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`product_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`att_02`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`att_03`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`att_04`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`isDeleted`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`qrcode_id`","`order_no`","`order_num`","`product_name`","`sso_id`","`att_02`","`att_03`","`att_04`","`created_by`","`created_time`","`updated_by`","`updated_time`","`isDeleted`","`hierarchy_code`"

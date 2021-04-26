@@ -1,0 +1,16 @@
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`production_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`process_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`class_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`employee_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`part_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`production_num`, dataType=Double, characterSetName=null, columnKey=
+columnName=`product_model`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`part_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`work_group_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`work_hours`, dataType=Double, characterSetName=null, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`last_update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`device_id`","`production_date`","`process_name`","`class_name`","`employee_no`","`part_no`","`production_num`","`product_model`","`part_name`","`work_group_name`","`work_hours`","`template_unique_id`","`org_hierarchy_code`","`id`","`last_update_time`"

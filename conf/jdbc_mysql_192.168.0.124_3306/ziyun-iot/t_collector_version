@@ -1,0 +1,17 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`collection_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`describe`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`iot_transform_type`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`protocol_allowed_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`create_user`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`version_info`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`download_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`md5_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`file_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`file_size`, dataType=Long, characterSetName=null, columnKey=
+columnName=`file_path`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`author`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`collection_id`","`describe`","`iot_transform_type`","`protocol_allowed_id`","`create_user`","`create_date`","`version_info`","`download_url`","`md5_value`","`file_name`","`file_size`","`file_path`","`author`","`update_time`","`status`"

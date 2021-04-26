@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`message_type_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`readed_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`maintenance_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`create_time`","`message_type_name`","`readed_status`","`maintenance_id`","`is_deleted`"

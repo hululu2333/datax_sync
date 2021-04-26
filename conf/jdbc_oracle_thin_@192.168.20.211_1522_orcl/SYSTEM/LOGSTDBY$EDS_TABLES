@@ -1,0 +1,19 @@
+columnName=`OWNER`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`TABLE_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`SHADOW_TABLE_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`BASE_TRIGGER_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`SHADOW_TRIGGER_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`DBLINK`, dataType=String, dataLength=255, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STATE`, dataType=String, dataLength=255, identityColumn=NO
+columnName=`OBJV`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CTIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=String, dataLength=255, identityColumn=NO
+columnName=`SPARE3`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MVIEW_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`MVIEW_LOG_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`MVIEW_TRIGGER_NAME`, dataType=String, dataLength=128, identityColumn=NO
+column="`OWNER`","`TABLE_NAME`","`SHADOW_TABLE_NAME`","`BASE_TRIGGER_NAME`","`SHADOW_TRIGGER_NAME`","`DBLINK`","`FLAGS`","`STATE`","`OBJV`","`OBJ#`","`SOBJ#`","`CTIME`","`SPARE1`","`SPARE2`","`SPARE3`","`MVIEW_NAME`","`MVIEW_LOG_NAME`","`MVIEW_TRIGGER_NAME`"

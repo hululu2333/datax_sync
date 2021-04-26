@@ -1,0 +1,14 @@
+columnName=`hid`, dataType=Long, characterSetName=null, columnKey=
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ip`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`agent_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`deploy_files_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`deploy_task_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`deploy_task_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`dev_template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`client_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`hid`","`host`","`ip`","`agent_name`","`status`","`create_date`","`deploy_files_url`","`update_date`","`deploy_task_name`","`deploy_task_type`","`id`","`dev_template_id`","`client_id`"

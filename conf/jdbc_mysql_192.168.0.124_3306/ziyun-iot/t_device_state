@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`state_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`state_color`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_code`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`parent_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`state`","`state_name`","`state_color`","`org_code`","`parent_id`","`create_time`","`update_time`"

@@ -1,0 +1,4 @@
+columnName=`id`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`name`, dataType=String, dataLength=255, identityColumn=NO
+columnName=`grade`, dataType=String, dataLength=255, identityColumn=NO
+column="`id`","`name`","`grade`"

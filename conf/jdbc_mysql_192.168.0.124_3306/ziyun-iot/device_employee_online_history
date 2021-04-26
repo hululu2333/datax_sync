@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`DEVICE_ID`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`DEVICE_NAME`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`SSO_ID`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`EMPLOYEE_NAME`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ONLINE_STATUS`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`OPERATION_DT`, dataType=Date, characterSetName=null, columnKey=
+columnName=`CREATE_DATE_NUMBER`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`PLANNED_YIELD`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`DEVICE_ID`","`DEVICE_NAME`","`SSO_ID`","`EMPLOYEE_NAME`","`ONLINE_STATUS`","`OPERATION_DT`","`CREATE_DATE_NUMBER`","`PLANNED_YIELD`"

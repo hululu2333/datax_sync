@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`attachment`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`document_format`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_picture`, dataType=Boolean, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_delete`, dataType=Boolean, characterSetName=null, columnKey=
+column="`id`","`attachment`","`document_format`","`is_picture`","`create_time`","`update_time`","`update_by`","`create_by`","`is_delete`"

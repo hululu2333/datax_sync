@@ -1,0 +1,11 @@
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OWNER#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ENCALG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INTALG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COLKLC`, dataType=Bytes, dataLength=2000, identityColumn=NO
+columnName=`KLCLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MKEYID`, dataType=String, dataLength=192, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`OBJ#`","`OWNER#`","`ENCALG`","`INTALG`","`COLKLC`","`KLCLEN`","`FLAG`","`MKEYID`","`LOGMNR_UID`","`LOGMNR_FLAGS`"

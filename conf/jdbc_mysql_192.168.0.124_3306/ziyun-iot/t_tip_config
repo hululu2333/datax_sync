@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`min_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`max_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`target_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`config_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`tip1`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tip2`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tip3`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`min_value`","`max_value`","`target_value`","`config_type`","`create_dt`","`update_time`","`tip1`","`tip2`","`tip3`"

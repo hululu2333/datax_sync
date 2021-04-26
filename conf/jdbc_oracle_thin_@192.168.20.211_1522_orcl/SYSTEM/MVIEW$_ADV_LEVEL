@@ -1,0 +1,8 @@
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LEVELID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DIMOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TBLOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COLUMNLIST`, dataType=Bytes, dataLength=70, identityColumn=NO
+columnName=`LEVELNAME`, dataType=String, dataLength=128, identityColumn=NO
+column="`RUNID#`","`LEVELID#`","`DIMOBJ#`","`FLAGS`","`TBLOBJ#`","`COLUMNLIST`","`LEVELNAME`"

@@ -1,0 +1,53 @@
+#!/bin/bash
+
+# 这个脚本的作用是验证datax的执行结果
+# 如果执行成功，则将上一次的执行结果删除。如果失败，则保留上次的结果，并发邮件提醒
+# 传入参数：$1为数据库在hdfs上的储存路径，$2是进行增量导入的表名们，$3是进行全量导入的表名们。$2与$3以空格分割，以便加入数组
+
+
+
+# 进入验证导入结果环节
+#echo "参数1："$1
+#echo "参数2："$2
+#echo "参数3："$3
+
+# 进行全量导入的验证
+tables=($3)
+
+for table in ${tables[@]}
+do
+    array=($(hdfs dfs -ls $1/${table} | grep - | sed 's/ -/|/g' | sed 's/ /~/g' | sed 's/|/ /g'))
+    for each in ${array[@]}
+    do
+        echo ${each}
+    done
+
+    
+
+    if [ ${#array[@]} = 1 ]; then
+        echo "如果不是第一次同步，则同步失败，发送邮件"
+    elif [ ${#array[@]} = 2 ]; then
+        echo "同步成功，删除旧数据"
+
+        file1=($(echo ${array[0]} | sed 's/~/ /g'))
+        file2=($(echo ${array[1]} | sed 's/~/ /g'))
+        
+        time1=`date -d "${file1[5]} ${file1[6]}" +%s`
+        time2=`date -d "${file2[5]} ${file2[6]}" +%s`
+
+        
+        if [ $time1 -lt $time2 ]; then
+            # 删除file1
+            hdfs dfs -rm ${file1[7]}
+        else
+            hdfs dfs -rm ${file2[7]}
+        fi
+
+    else
+        echo "文件数多于2或为0，找一下原因"
+    fi
+done
+
+
+# 验证增量导入的结果
+

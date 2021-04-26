@@ -1,0 +1,2 @@
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=PRI
+column="`pbox_id`"

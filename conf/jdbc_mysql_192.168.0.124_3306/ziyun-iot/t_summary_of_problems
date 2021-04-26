@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`work_list_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`problem_types_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`problem_improvement`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`work_list_id`","`problem_types_id`","`problem_improvement`","`created_by`","`created_time`","`updated_time`","`is_deleted`"

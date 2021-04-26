@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`main_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`son_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`general_drawing_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`qrcode_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`isDeleted`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`open_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`order_no`","`main_code`","`son_code`","`general_drawing_id`","`qrcode_id`","`created_by`","`created_time`","`updated_by`","`updated_time`","`isDeleted`","`open_id`","`hierarchy_code`"

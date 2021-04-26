@@ -1,0 +1,4 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`record_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`fault_id`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`record_id`","`fault_id`"

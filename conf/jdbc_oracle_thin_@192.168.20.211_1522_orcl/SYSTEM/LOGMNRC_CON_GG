@@ -1,0 +1,16 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CON#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=384, identityColumn=NO
+columnName=`COMMIT_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DROP_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BASEOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BASEOBJV#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INDEXOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE4`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE5`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE6`, dataType=String, dataLength=4000, identityColumn=NO
+column="`LOGMNR_UID`","`CON#`","`NAME`","`COMMIT_SCN`","`DROP_SCN`","`BASEOBJ#`","`BASEOBJV#`","`FLAGS`","`INDEXOBJ#`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`","`SPARE5`","`SPARE6`"

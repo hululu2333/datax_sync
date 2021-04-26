@@ -1,0 +1,13 @@
+columnName=`BUILD_DATE`, dataType=String, dataLength=20, identityColumn=NO
+columnName=`DB_TXN_SCNBAS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DB_TXN_SCNWRP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CURRENT_BUILD_STATE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COMPLETION_STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MARKED_LOG_FILE_LOW_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INITIAL_XID`, dataType=String, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CDB_XID`, dataType=String, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=String, dataLength=4000, identityColumn=NO
+column="`BUILD_DATE`","`DB_TXN_SCNBAS`","`DB_TXN_SCNWRP`","`CURRENT_BUILD_STATE`","`COMPLETION_STATUS`","`MARKED_LOG_FILE_LOW_SCN`","`INITIAL_XID`","`LOGMNR_UID`","`LOGMNR_FLAGS`","`CDB_XID`","`SPARE1`","`SPARE2`"

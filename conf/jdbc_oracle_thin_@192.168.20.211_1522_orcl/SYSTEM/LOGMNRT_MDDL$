@@ -1,0 +1,4 @@
+columnName=`SOURCE_OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SOURCE_ROWID`, dataType=matching fail, dataLength=10, identityColumn=NO
+columnName=`DEST_ROWID`, dataType=matching fail, dataLength=10, identityColumn=NO
+column="`SOURCE_OBJ#`","`SOURCE_ROWID`","`DEST_ROWID`"

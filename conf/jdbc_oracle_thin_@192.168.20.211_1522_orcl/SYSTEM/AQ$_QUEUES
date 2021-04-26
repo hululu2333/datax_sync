@@ -1,0 +1,19 @@
+columnName=`OID`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`EVENTID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`TABLE_OBJNO`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`USAGE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ENABLE_FLAG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MAX_RETRIES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RETRY_DELAY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PROPERTIES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RET_TIME`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`QUEUE_COMMENT`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`MEMORY_THRESHOLD`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SERVICE_NAME`, dataType=String, dataLength=64, identityColumn=NO
+columnName=`NETWORK_NAME`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`SUB_OID`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`SHARDED`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BASE_QUEUE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SUBSCRIBERS`, dataType=matching fail, dataLength=3752, identityColumn=NO
+column="`OID`","`EVENTID`","`NAME`","`TABLE_OBJNO`","`USAGE`","`ENABLE_FLAG`","`MAX_RETRIES`","`RETRY_DELAY`","`PROPERTIES`","`RET_TIME`","`QUEUE_COMMENT`","`MEMORY_THRESHOLD`","`SERVICE_NAME`","`NETWORK_NAME`","`SUB_OID`","`SHARDED`","`BASE_QUEUE`","`SUBSCRIBERS`"

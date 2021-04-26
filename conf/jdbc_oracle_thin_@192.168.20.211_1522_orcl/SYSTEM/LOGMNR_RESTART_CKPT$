@@ -1,0 +1,16 @@
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`VALID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CKPT_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SESSION_NUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SERIAL_NUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CKPT_INFO`, dataType=Bytes, dataLength=4000, identityColumn=NO
+columnName=`FLAG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OFFSET`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CLIENT_DATA`, dataType=Bytes, dataLength=4000, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PDBID`, dataType=Long, dataLength=22, identityColumn=NO
+column="`SESSION#`","`VALID`","`CKPT_SCN`","`XIDUSN`","`XIDSLT`","`XIDSQN`","`SESSION_NUM`","`SERIAL_NUM`","`CKPT_INFO`","`FLAG`","`OFFSET`","`CLIENT_DATA`","`SPARE1`","`SPARE2`","`PDBID`"

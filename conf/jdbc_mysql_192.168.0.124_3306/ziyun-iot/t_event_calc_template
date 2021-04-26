@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`event_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`calc_param_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`event_id`","`calc_param_id`","`create_time`","`update_time`"

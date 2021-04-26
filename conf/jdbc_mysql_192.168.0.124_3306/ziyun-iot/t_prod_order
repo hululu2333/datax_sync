@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`prod_order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`is_deleted`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`order_id`","`prod_order_no`","`status`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`"

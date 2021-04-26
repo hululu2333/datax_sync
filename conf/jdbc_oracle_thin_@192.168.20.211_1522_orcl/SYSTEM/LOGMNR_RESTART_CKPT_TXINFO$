@@ -1,0 +1,12 @@
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SESSION_NUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SERIAL_NUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAG`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`EFFECTIVE_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OFFSET`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TX_DATA`, dataType=Bytes, dataLength=4000, identityColumn=NO
+column="`SESSION#`","`XIDUSN`","`XIDSLT`","`XIDSQN`","`SESSION_NUM`","`SERIAL_NUM`","`FLAG`","`START_SCN`","`EFFECTIVE_SCN`","`OFFSET`","`TX_DATA`"

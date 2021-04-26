@@ -1,0 +1,7 @@
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TS#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PART#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BO#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`OBJ#`","`TS#`","`PART#`","`BO#`","`LOGMNR_UID`","`LOGMNR_FLAGS`"

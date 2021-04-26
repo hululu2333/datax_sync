@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`attribute_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`attribute_record_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`operational_character`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`boundary_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`boundary_value_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_triger_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`rule_type`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`attribute_id`","`attribute_record_id`","`operational_character`","`boundary_value`","`boundary_value_type`","`event_triger_id`","`create_time`","`rule_type`"

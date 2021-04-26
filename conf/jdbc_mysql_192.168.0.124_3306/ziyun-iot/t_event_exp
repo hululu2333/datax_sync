@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`event_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`event_formula`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_formula_chinese`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`belong_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`belong_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`event_id`","`event_formula`","`event_formula_chinese`","`belong_type`","`belong_id`","`create_by`","`update_by`","`create_time`","`update_time`"

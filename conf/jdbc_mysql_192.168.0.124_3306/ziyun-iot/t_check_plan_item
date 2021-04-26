@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`check_item`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`check_standard`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`check_item_sort`, dataType=Long, characterSetName=null, columnKey=
+columnName=`class_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`project_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`check_review_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`picture_remark`, dataType=Long, characterSetName=null, columnKey=
+columnName=`check_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`deduct_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`beginwork_responsible_ssoid`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`check_responsible_ssoid`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=MUL
+column="`id`","`check_item`","`check_standard`","`check_item_sort`","`class_id`","`project_id`","`check_review_count`","`picture_remark`","`check_type`","`deduct_num`","`status`","`beginwork_responsible_ssoid`","`check_responsible_ssoid`","`org_hierarchy_code`"

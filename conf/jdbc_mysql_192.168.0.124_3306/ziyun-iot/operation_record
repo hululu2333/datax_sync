@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`org_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`recordTypeId`, dataType=Long, characterSetName=null, columnKey=
+columnName=`details`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`operationDate`, dataType=Date, characterSetName=null, columnKey=
+columnName=`useTime`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`result`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`repair_bill_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`org_code`","`recordTypeId`","`details`","`operationDate`","`useTime`","`result`","`create_date`","`create_user_idm_no`","`update_date`","`update_user_idm_no`","`repair_bill_id`","`domain_id`"

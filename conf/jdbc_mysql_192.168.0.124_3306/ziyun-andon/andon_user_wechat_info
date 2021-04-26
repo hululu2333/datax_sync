@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`app_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`open_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`whether_open`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`app_id`","`sso_id`","`open_id`","`whether_open`","`create_dt`","`update_dt`"

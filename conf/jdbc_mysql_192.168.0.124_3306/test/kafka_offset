@@ -1,0 +1,5 @@
+columnName=`offset`, dataType=Long, characterSetName=null, columnKey=
+columnName=`topic`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`partition`, dataType=Long, characterSetName=null, columnKey=
+columnName=`groupid`, dataType=String, characterSetName=utf8, columnKey=
+column="`offset`","`topic`","`partition`","`groupid`"

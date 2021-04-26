@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`protocol_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`enabled_ssl`, dataType=Long, characterSetName=null, columnKey=
+columnName=`impl_entity`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`adaptor_entity`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`user_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`password`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`secret`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_user_idm_no`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`protocol_name`","`enabled_ssl`","`impl_entity`","`host`","`adaptor_entity`","`user_name`","`password`","`secret`","`create_time`","`create_user_idm_no`","`update_time`","`update_user_idm_no`"

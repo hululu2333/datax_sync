@@ -1,0 +1,4 @@
+columnName=`transform_rule_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`collector_version_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`transform_rule_id`","`collector_version_id`","`domain_id`"

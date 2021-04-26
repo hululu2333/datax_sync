@@ -1,0 +1,14 @@
+columnName=`LOGMNR_SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_SPARE3`, dataType=String, dataLength=1000, identityColumn=NO
+columnName=`LOGMNR_SPARE4`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`DB_GLOBAL_NAME`, dataType=String, dataLength=384, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`AS_OF_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FDO_LENGTH`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FDO_VALUE`, dataType=Bytes, dataLength=255, identityColumn=NO
+columnName=`CHARSETID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NCHARSETID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBTIMEZONE_LEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBTIMEZONE_VALUE`, dataType=String, dataLength=192, identityColumn=NO
+columnName=`LOGMNR_SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+column="`LOGMNR_SPARE2`","`LOGMNR_SPARE3`","`LOGMNR_SPARE4`","`DB_GLOBAL_NAME`","`LOGMNR_UID`","`AS_OF_SCN`","`FDO_LENGTH`","`FDO_VALUE`","`CHARSETID`","`NCHARSETID`","`DBTIMEZONE_LEN`","`DBTIMEZONE_VALUE`","`LOGMNR_SPARE1`"

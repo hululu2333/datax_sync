@@ -1,0 +1,7 @@
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`CncStatus`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`finalCncStatus`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`duration`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`data_col_time`, dataType=String, characterSetName=utf8, columnKey=
+column="`dev_template_unique_id`","`device_id`","`CncStatus`","`finalCncStatus`","`duration`","`data_col_time`"

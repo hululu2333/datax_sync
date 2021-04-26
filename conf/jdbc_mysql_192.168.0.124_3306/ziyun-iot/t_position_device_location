@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`top_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`left_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`position_number`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`top_value`","`left_value`","`position_number`"

@@ -1,0 +1,4 @@
+columnName=`TOPIC`, dataType=String, dataLength=50, identityColumn=NO
+columnName=`SEQ`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INFO`, dataType=String, dataLength=80, identityColumn=NO
+column="`TOPIC`","`SEQ`","`INFO`"

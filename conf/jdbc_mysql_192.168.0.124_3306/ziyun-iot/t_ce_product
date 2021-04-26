@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`product_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`product_number`, dataType=Long, characterSetName=null, columnKey=
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`product_name`","`product_number`","`order_id`","`sso_id`","`hierarchy_code`","`create_time`","`update_time`"

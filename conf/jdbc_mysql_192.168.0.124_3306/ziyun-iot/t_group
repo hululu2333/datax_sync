@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`group_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`group_name`","`domain_id`","`hierarchy_code`","`is_deleted`","`create_by`","`update_by`","`create_time`","`update_time`"

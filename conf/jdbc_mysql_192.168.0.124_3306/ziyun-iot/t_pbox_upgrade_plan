@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`last_update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`planed_upgrade_pbox_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`planed_upgrade_device_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`upgragded_pbox_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`upgragded_device_count`, dataType=Long, characterSetName=null, columnKey=
+columnName=`repeal_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`plan_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`create_time`","`create_by`","`last_update_time`","`update_by`","`planed_upgrade_pbox_count`","`planed_upgrade_device_count`","`upgragded_pbox_count`","`upgragded_device_count`","`repeal_time`","`plan_status`","`domain_id`"

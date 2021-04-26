@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`user_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`user_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`user_password`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`user_token`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`role_type`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`domain_url`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`user_id`","`user_name`","`user_password`","`user_token`","`create_date`","`update_date`","`role_type`","`domain_url`","`domain_id`"

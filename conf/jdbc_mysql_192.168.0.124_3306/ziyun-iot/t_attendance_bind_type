@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`permit_duplication`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`org_hierarchy_code`","`create_time`","`update_time`","`permit_duplication`"

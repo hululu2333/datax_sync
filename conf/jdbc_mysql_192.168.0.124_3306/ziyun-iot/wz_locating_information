@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`asset_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`request_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`cell_Id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`location_area_code`, dataType=Long, characterSetName=null, columnKey=
+columnName=`longitude`, dataType=Double, characterSetName=null, columnKey=
+columnName=`latitude`, dataType=Double, characterSetName=null, columnKey=
+column="`id`","`asset_id`","`request_id`","`cell_Id`","`location_area_code`","`longitude`","`latitude`"

@@ -1,0 +1,12 @@
+columnName=`ERROR`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STATEMENT_OPT`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`SCHEMA`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=261, identityColumn=NO
+columnName=`USE_LIKE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ESC`, dataType=String, dataLength=1, identityColumn=NO
+columnName=`PROC`, dataType=String, dataLength=392, identityColumn=NO
+columnName=`ACTIVE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=2000, identityColumn=NO
+column="`ERROR`","`STATEMENT_OPT`","`SCHEMA`","`NAME`","`USE_LIKE`","`ESC`","`PROC`","`ACTIVE`","`SPARE1`","`SPARE2`","`SPARE3`"

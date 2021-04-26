@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`program_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`port_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`port`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`col_protocol`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`program_description`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`iot_transform_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_user`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_user`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`version_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`in_server_version_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`program_name`","`port_type`","`port`","`col_protocol`","`program_description`","`iot_transform_type`","`create_date`","`create_user`","`update_dt`","`update_user`","`version_id`","`in_server_version_id`","`is_deleted`"

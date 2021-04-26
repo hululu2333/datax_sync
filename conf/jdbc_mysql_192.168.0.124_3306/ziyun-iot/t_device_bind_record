@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`bind_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`un_bind_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`bind_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`install_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`install_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`device_id`","`template_unique_id`","`org_hierarchy_code`","`org_name`","`pbox_id`","`bind_time`","`un_bind_time`","`bind_status`","`install_time`","`install_status`","`create_time`","`update_time`","`status`"

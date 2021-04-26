@@ -1,0 +1,4 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`check_item_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`role_name`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`check_item_id`","`role_name`"

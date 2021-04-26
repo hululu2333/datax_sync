@@ -1,0 +1,10 @@
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`mobile`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`user_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`role_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`object_card_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`employeeNo`, dataType=String, characterSetName=utf8, columnKey=
+column="`sso_id`","`mobile`","`user_name`","`role_name`","`object_card_id`","`created_time`","`updated_time`","`id`","`employeeNo`"

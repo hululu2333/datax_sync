@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`target_value`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`dev_id`","`template_unique_id`","`target_value`","`create_by`","`create_time`","`update_by`","`update_time`","`is_deleted`"

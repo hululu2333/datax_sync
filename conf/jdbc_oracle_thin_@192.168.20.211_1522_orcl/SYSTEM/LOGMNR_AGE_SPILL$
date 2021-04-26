@@ -1,0 +1,12 @@
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CHUNK`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEQUENCE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OFFSET`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPILL_DATA`, dataType=Bytes, dataLength=4000, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PDBID`, dataType=Long, dataLength=22, identityColumn=NO
+column="`SESSION#`","`XIDUSN`","`XIDSLT`","`XIDSQN`","`CHUNK`","`SEQUENCE#`","`OFFSET`","`SPILL_DATA`","`SPARE1`","`SPARE2`","`PDBID`"

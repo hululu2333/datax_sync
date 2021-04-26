@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`product_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`draw_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`process_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`minutes`, dataType=Long, characterSetName=null, columnKey=
+columnName=`process_sort`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`order_id`","`product_id`","`draw_id`","`process_id`","`created_time`","`updated_time`","`minutes`","`process_sort`"

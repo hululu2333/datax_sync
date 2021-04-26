@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`object_card_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`attendance_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`record_type`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`device_id`","`object_card_id`","`attendance_id`","`create_time`","`sso_id`","`template_unique_id`","`org_hierarchy_code`","`hierarchy_code`","`record_type`"

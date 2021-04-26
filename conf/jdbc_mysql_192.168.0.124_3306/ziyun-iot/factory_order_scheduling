@@ -1,0 +1,10 @@
+columnName=`ord_sche_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`scheduling_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`big_drawing_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`small_drawing_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`planned_yield`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`ord_sche_id`","`order_no`","`scheduling_id`","`big_drawing_no`","`small_drawing_no`","`planned_yield`","`hierarchy_code`","`create_time`","`update_time`"

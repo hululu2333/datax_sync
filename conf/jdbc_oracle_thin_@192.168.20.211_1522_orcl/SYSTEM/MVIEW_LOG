@@ -1,0 +1,11 @@
+columnName=`RUN_BEGIN`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`RUN_END`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`TYPE`, dataType=String, dataLength=11, identityColumn=NO
+columnName=`STATUS`, dataType=String, dataLength=11, identityColumn=NO
+columnName=`ERROR_CODE`, dataType=String, dataLength=20, identityColumn=NO
+columnName=`COMPLETED`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FILTERID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MESSAGE`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TOTAL`, dataType=Long, dataLength=22, identityColumn=NO
+column="`RUN_BEGIN`","`RUN_END`","`TYPE`","`STATUS`","`ERROR_CODE`","`COMPLETED`","`FILTERID`","`MESSAGE`","`ID`","`TOTAL`"

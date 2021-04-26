@@ -1,0 +1,9 @@
+columnName=`FILTERID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SUBFILTERTYPE`, dataType=String, dataLength=12, identityColumn=NO
+columnName=`DATE_VALUE2`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`DATE_VALUE1`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`NUM_VALUE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STR_VALUE`, dataType=String, dataLength=1028, identityColumn=NO
+columnName=`SUBFILTERNUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NUM_VALUE2`, dataType=Long, dataLength=22, identityColumn=NO
+column="`FILTERID`","`SUBFILTERTYPE`","`DATE_VALUE2`","`DATE_VALUE1`","`NUM_VALUE1`","`STR_VALUE`","`SUBFILTERNUM`","`NUM_VALUE2`"

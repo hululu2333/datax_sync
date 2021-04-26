@@ -1,0 +1,6 @@
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`conn_state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`vpn_virtual_ip`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`last_connect_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`last_request_conn_time`, dataType=Date, characterSetName=null, columnKey=
+column="`pbox_id`","`conn_state`","`vpn_virtual_ip`","`last_connect_time`","`last_request_conn_time`"

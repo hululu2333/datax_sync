@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`status_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`minOpenRate`, dataType=Long, characterSetName=null, columnKey=
+columnName=`maxOpenRate`, dataType=Long, characterSetName=null, columnKey=
+columnName=`color`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`status_name`","`minOpenRate`","`maxOpenRate`","`color`","`hierarchy_code`","`org_hierarchy_code`","`create_time`","`update_time`","`is_deleted`","`domain_id`"

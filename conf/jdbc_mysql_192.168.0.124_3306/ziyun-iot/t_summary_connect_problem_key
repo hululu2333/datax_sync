@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`problem_key_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`summary_of_problems_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`problem_key_id`","`summary_of_problems_id`","`created_time`","`created_by`"

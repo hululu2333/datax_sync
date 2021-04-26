@@ -1,0 +1,4 @@
+columnName=`pip_component_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`pip_topic_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`pip_component_id`","`pip_topic_id`","`create_time`"

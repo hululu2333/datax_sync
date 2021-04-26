@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_content`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sys_default`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`template_type`","`template_name`","`template_content`","`domain_id`","`sys_default`","`is_deleted`","`create_by`","`update_by`","`create_time`","`update_time`"

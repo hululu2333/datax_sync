@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`amplitude`, dataType=Double, characterSetName=null, columnKey=
+columnName=`date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`template_id`","`device_id`","`amplitude`","`date`","`create_date`"

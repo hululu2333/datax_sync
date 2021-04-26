@@ -1,0 +1,3 @@
+columnName=`test_update`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`test_insert`, dataType=String, characterSetName=utf8, columnKey=
+column="`test_update`","`test_insert`"

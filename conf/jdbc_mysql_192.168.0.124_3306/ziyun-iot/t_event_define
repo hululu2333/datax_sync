@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_attr_record_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`idm_h_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by_idm_sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by_idm_sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_define_status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_define_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_define_desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`eventRouterId`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`template_unique_id`","`template_attr_record_id`","`idm_h_code`","`create_date`","`create_by_idm_sso_id`","`update_date`","`update_by_idm_sso_id`","`event_define_status`","`event_define_name`","`event_define_desc`","`eventRouterId`"

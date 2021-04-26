@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`last_attr_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`push_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`last_attr_id`","`dev_template_unique_id`","`push_time`"

@@ -1,0 +1,15 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COMMIT_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DROP_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEQ_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OWNER#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OWNERNAME`, dataType=String, dataLength=384, identityColumn=NO
+columnName=`OBJNAME`, dataType=String, dataLength=384, identityColumn=NO
+columnName=`SEQCACHE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEQINC`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE4`, dataType=String, dataLength=4000, identityColumn=NO
+column="`LOGMNR_UID`","`OBJ#`","`COMMIT_SCN`","`DROP_SCN`","`SEQ_FLAGS`","`OWNER#`","`OWNERNAME`","`OBJNAME`","`SEQCACHE`","`SEQINC`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`"

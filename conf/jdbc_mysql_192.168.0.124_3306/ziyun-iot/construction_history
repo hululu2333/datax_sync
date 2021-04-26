@@ -1,0 +1,10 @@
+columnName=`construction_history_id`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`device_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`construction_date`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`province`, dataType=Long, characterSetName=null, columnKey=
+columnName=`city`, dataType=Long, characterSetName=null, columnKey=
+columnName=`district`, dataType=Long, characterSetName=null, columnKey=
+columnName=`timestamp`, dataType=Date, characterSetName=null, columnKey=
+column="`construction_history_id`","`device_id`","`org_code`","`domain_id`","`construction_date`","`province`","`city`","`district`","`timestamp`"

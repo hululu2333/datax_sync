@@ -1,0 +1,14 @@
+columnName=`STREAM_SEQUENCE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LMNR_SID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FIRST_CHANGE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LAST_CHANGE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SOURCE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FIRST_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`LAST_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`DGNAME`, dataType=String, dataLength=255, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=2000, identityColumn=NO
+column="`STREAM_SEQUENCE#`","`LMNR_SID`","`DBID`","`FIRST_CHANGE#`","`LAST_CHANGE#`","`SOURCE`","`STATUS`","`FIRST_TIME`","`LAST_TIME`","`DGNAME`","`SPARE1`","`SPARE2`","`SPARE3`"

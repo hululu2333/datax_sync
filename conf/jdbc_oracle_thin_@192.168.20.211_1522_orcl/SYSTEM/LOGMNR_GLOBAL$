@@ -1,0 +1,12 @@
+columnName=`HIGH_RECID_FOREIGN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`HIGH_RECID_DELETED`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOCAL_RESET_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOCAL_RESET_TIMESTAMP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`VERSION_TIMESTAMP`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE4`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`SPARE5`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+column="`HIGH_RECID_FOREIGN`","`HIGH_RECID_DELETED`","`LOCAL_RESET_SCN`","`LOCAL_RESET_TIMESTAMP`","`VERSION_TIMESTAMP`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`","`SPARE5`","`SESSION#`"

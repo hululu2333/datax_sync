@@ -1,0 +1,16 @@
+columnName=`EVENT_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`CURRENT_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COMMIT_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDUSN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSLT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`XIDSQN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ERRVAL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`EVENT`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`FULL_EVENT`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`ERROR`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=2000, identityColumn=NO
+columnName=`CON_NAME`, dataType=String, dataLength=30, identityColumn=NO
+columnName=`CON_ID`, dataType=Long, dataLength=22, identityColumn=NO
+column="`EVENT_TIME`","`CURRENT_SCN`","`COMMIT_SCN`","`XIDUSN`","`XIDSLT`","`XIDSQN`","`ERRVAL`","`EVENT`","`FULL_EVENT`","`ERROR`","`SPARE1`","`SPARE2`","`SPARE3`","`CON_NAME`","`CON_ID`"

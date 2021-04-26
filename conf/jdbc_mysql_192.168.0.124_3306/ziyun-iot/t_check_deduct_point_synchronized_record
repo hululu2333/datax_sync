@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`repeat_check_task_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`deduct_point_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`syn_operator_ssoid`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`syn_operator_name`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`repeat_check_task_id`","`deduct_point_id`","`created_time`","`syn_operator_ssoid`","`syn_operator_name`"

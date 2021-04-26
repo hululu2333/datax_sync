@@ -1,0 +1,5 @@
+columnName=`sno`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`sname`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sage`, dataType=Long, characterSetName=null, columnKey=
+columnName=`ssex`, dataType=String, characterSetName=utf8, columnKey=
+column="`sno`","`sname`","`sage`","`ssex`"

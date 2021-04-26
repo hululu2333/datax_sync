@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`screen_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`zone_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`zone_location`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`zone_type_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`state`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`sso_id`","`domain_id`","`screen_id`","`zone_name`","`zone_location`","`zone_type_code`","`state`","`create_time`","`update_time`"

@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`class_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`check_plan_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`class_id`","`check_plan_id`","`created_time`"

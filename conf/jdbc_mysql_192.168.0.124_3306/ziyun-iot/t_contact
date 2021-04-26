@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`user_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`job_title`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`mobile_phone_num`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`user_name`","`job_title`","`mobile_phone_num`","`sso_id`","`domain_id`","`hierarchy_code`","`is_deleted`","`create_by`","`update_by`","`create_time`","`update_time`"

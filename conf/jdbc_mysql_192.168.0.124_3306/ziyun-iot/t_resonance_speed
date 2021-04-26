@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`actual_speed`, dataType=Long, characterSetName=null, columnKey=
+columnName=`forecast_speed`, dataType=Long, characterSetName=null, columnKey=
+columnName=`actual_second_speed`, dataType=Long, characterSetName=null, columnKey=
+columnName=`forecast_second_speed`, dataType=Long, characterSetName=null, columnKey=
+columnName=`template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`date`","`actual_speed`","`forecast_speed`","`actual_second_speed`","`forecast_second_speed`","`template_id`","`created_time`"

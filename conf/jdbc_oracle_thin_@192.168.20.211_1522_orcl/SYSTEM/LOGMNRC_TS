@@ -1,0 +1,9 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TS#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NAME`, dataType=String, dataLength=90, identityColumn=NO
+columnName=`START_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DROP_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=4000, identityColumn=NO
+column="`LOGMNR_UID`","`TS#`","`NAME`","`START_SCN`","`DROP_SCN`","`SPARE1`","`SPARE2`","`SPARE3`"

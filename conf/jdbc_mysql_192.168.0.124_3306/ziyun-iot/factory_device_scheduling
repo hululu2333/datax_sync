@@ -1,0 +1,8 @@
+columnName=`dev_sche_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`device_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`scheduling_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`dev_sche_id`","`device_id`","`device_name`","`scheduling_id`","`hierarchy_code`","`create_time`","`update_time`"

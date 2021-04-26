@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`install_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`auto_assign`, dataType=Long, characterSetName=null, columnKey=
+columnName=`device_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`pbox_id`","`install_status`","`auto_assign`","`device_id`","`create_dt`","`update_dt`"

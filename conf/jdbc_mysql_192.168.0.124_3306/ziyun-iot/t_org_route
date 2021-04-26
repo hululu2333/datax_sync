@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`state`, dataType=Boolean, characterSetName=null, columnKey=
+columnName=`route_target`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`route_address`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`route_port`, dataType=Long, characterSetName=null, columnKey=
+columnName=`user_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`password`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pwd_salt`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`state`","`route_target`","`route_address`","`route_port`","`user_name`","`password`","`pwd_salt`","`org_hierarchy_code`","`domain_id`","`create_by`","`update_by`","`create_time`","`update_time`"

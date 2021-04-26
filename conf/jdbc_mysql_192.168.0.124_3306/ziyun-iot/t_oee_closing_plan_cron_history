@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`machine_halt_cycle`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`cron_start_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`cron_end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`closing_type_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`machine_halt_start_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`machine_halt_end_time`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`plan_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`plan_cron_id`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`machine_halt_cycle`","`cron_start_time`","`cron_end_time`","`closing_type_id`","`machine_halt_start_time`","`machine_halt_end_time`","`plan_status`","`create_time`","`update_by`","`plan_cron_id`"

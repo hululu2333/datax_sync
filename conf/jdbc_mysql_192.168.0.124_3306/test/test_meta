@@ -1,0 +1,4 @@
+columnName=`saaa`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`test_update12`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tet_insert`, dataType=String, characterSetName=utf8, columnKey=
+column="`saaa`","`test_update12`","`tet_insert`"

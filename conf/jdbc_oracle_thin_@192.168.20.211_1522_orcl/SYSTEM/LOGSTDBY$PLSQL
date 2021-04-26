@@ -1,0 +1,7 @@
+columnName=`SESSION_ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_FINISH`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CALL_TEXT`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=2000, identityColumn=NO
+column="`SESSION_ID`","`START_FINISH`","`CALL_TEXT`","`SPARE1`","`SPARE2`","`SPARE3`"

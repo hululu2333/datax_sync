@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ip`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`deploy_task_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`agent_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`task_history_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`deployed_disk_path`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`client_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`taskType`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`host`","`ip`","`status`","`create_date`","`deploy_task_name`","`agent_name`","`task_history_id`","`deployed_disk_path`","`dev_template_id`","`client_id`","`taskType`"

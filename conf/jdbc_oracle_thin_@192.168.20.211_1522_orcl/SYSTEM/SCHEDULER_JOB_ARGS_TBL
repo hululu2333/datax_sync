@@ -1,0 +1,9 @@
+columnName=`OWNER`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`JOB_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`ARGUMENT_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`ARGUMENT_POSITION`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ARGUMENT_TYPE`, dataType=String, dataLength=257, identityColumn=NO
+columnName=`VALUE`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`OUT_ARGUMENT`, dataType=String, dataLength=5, identityColumn=NO
+columnName=`ANYDATA_VALUE`, dataType=matching fail, dataLength=3752, identityColumn=NO
+column="`OWNER`","`JOB_NAME`","`ARGUMENT_NAME`","`ARGUMENT_POSITION`","`ARGUMENT_TYPE`","`VALUE`","`OUT_ARGUMENT`","`ANYDATA_VALUE`"

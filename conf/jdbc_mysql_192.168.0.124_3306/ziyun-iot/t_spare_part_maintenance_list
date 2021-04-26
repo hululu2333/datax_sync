@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`spare_part_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`last_replace_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`maintenance_cycle`, dataType=Long, characterSetName=null, columnKey=
+columnName=`trigger_condition`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`bind_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_need_to_maintenance`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`spare_part_id`","`last_replace_time`","`maintenance_cycle`","`trigger_condition`","`bind_time`","`is_deleted`","`is_need_to_maintenance`","`hierarchy_code`","`org_hierarchy_code`","`template_unique_id`","`updated_time`"

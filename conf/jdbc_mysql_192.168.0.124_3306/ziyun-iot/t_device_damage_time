@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`line_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`device_no`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`work_list_no`, dataType=String, characterSetName=utf8mb4, columnKey=MUL
+columnName=`start_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`end_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`work_list_types_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`company_hierarchy_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`line_name`","`device_no`","`work_list_no`","`start_time`","`end_time`","`work_list_types_id`","`created_by`","`created_time`","`company_hierarchy_code`","`org_hierarchy_code`"

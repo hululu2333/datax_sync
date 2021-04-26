@@ -1,0 +1,3 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`name`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`name`"

@@ -1,0 +1,9 @@
+columnName=`apply_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`app_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`app_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`app_secret`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`app_desc`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`contact_phone`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`contact_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`apply_id`","`app_name`","`app_id`","`app_secret`","`app_desc`","`contact_phone`","`contact_name`","`create_time`"

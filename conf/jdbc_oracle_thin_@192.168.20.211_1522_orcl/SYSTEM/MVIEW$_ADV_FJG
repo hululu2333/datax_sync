@@ -1,0 +1,7 @@
+columnName=`FJGID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`AJGID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FJGDESLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`HASHVALUE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FJGDES`, dataType=Bytes, dataLength=0, identityColumn=NO
+column="`FJGID#`","`AJGID#`","`FJGDESLEN`","`HASHVALUE`","`FREQUENCY`","`FJGDES`"

@@ -1,0 +1,8 @@
+columnName=`project_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`project_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`project_id`","`project_name`","`is_deleted`","`created_time`","`updated_time`","`hierarchy_code`","`org_hierarchy_code`"

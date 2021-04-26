@@ -1,0 +1,10 @@
+columnName=`PROGRAM_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`OUT_ARGUMENT`, dataType=String, dataLength=5, identityColumn=NO
+columnName=`ARGUMENT_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`ARGUMENT_POSITION`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DEFAULT_ANYDATA_VALUE`, dataType=matching fail, dataLength=4408, identityColumn=NO
+columnName=`METADATA_ATTRIBUTE`, dataType=String, dataLength=19, identityColumn=NO
+columnName=`ARGUMENT_TYPE`, dataType=String, dataLength=257, identityColumn=NO
+columnName=`DEFAULT_VALUE`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`OWNER`, dataType=String, dataLength=128, identityColumn=NO
+column="`PROGRAM_NAME`","`OUT_ARGUMENT`","`ARGUMENT_NAME`","`ARGUMENT_POSITION`","`DEFAULT_ANYDATA_VALUE`","`METADATA_ATTRIBUTE`","`ARGUMENT_TYPE`","`DEFAULT_VALUE`","`OWNER`"

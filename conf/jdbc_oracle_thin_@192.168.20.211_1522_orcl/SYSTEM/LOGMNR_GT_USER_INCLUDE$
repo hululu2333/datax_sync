@@ -1,0 +1,7 @@
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`USER_NAME`, dataType=String, dataLength=390, identityColumn=NO
+columnName=`PDB_NAME`, dataType=String, dataLength=390, identityColumn=NO
+columnName=`USER_TYPE`, dataType=Long, dataLength=22, identityColumn=NO
+column="`SPARE2`","`SPARE3`","`SPARE1`","`USER_NAME`","`PDB_NAME`","`USER_TYPE`"

@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`event_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`event_body`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`content`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`event_id`","`event_body`","`content`","`create_by`","`update_by`","`create_time`","`update_time`"

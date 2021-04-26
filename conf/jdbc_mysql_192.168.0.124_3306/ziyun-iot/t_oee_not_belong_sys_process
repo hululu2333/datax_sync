@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`last_update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`this_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`process_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`not_belong_to_sys_peocess_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`not_belong_to_sys_process_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`worker_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`class_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`work_group_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`work_hour_num`, dataType=Double, characterSetName=null, columnKey=
+column="`id`","`template_unique_id`","`org_hierarchy_code`","`last_update_time`","`this_date`","`process_name`","`not_belong_to_sys_peocess_type`","`not_belong_to_sys_process_name`","`worker_no`","`class_name`","`work_group_name`","`device_id`","`work_hour_num`"

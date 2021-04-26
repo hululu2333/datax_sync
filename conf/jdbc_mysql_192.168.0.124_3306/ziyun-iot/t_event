@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`event_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`kind`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`source`, dataType=Long, characterSetName=null, columnKey=
+columnName=`to_manager`, dataType=Long, characterSetName=null, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`event_name`","`template_id`","`kind`","`is_deleted`","`status`","`source`","`to_manager`","`domain_id`","`hierarchy_code`","`create_by`","`update_by`","`create_time`","`update_time`"

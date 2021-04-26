@@ -1,0 +1,16 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`idm_app_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`rule_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`rule_type_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`state`, dataType=Boolean, characterSetName=null, columnKey=
+columnName=`test_state`, dataType=Boolean, characterSetName=null, columnKey=
+columnName=`rule_desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`language`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`script_text`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`script_fun_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`idm_app_id`","`rule_name`","`rule_type_id`","`state`","`test_state`","`rule_desc`","`language`","`script_text`","`domain_id`","`script_fun_name`","`create_by`","`update_by`","`create_time`","`update_time`"

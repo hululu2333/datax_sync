@@ -1,0 +1,15 @@
+columnName=`HINTCOUNT`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TEXTLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TIMESTAMP`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`VERSION`, dataType=String, dataLength=64, identityColumn=NO
+columnName=`SQL_TEXT`, dataType=String, dataLength=0, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`HASH_VALUE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CREATOR`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`OL_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CATEGORY`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`SIGNATURE`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`SPARE2`, dataType=String, dataLength=1000, identityColumn=NO
+columnName=`HASH_VALUE`, dataType=Long, dataLength=22, identityColumn=NO
+column="`HINTCOUNT`","`TEXTLEN`","`TIMESTAMP`","`VERSION`","`SQL_TEXT`","`FLAGS`","`HASH_VALUE2`","`CREATOR`","`OL_NAME`","`SPARE1`","`CATEGORY`","`SIGNATURE`","`SPARE2`","`HASH_VALUE`"

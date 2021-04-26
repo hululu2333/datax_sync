@@ -1,0 +1,11 @@
+columnName=`EVENTID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INSTID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`REVISION`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`EVENT_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`TYPE`, dataType=String, dataLength=16, identityColumn=NO
+columnName=`STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`MESSAGE`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=128, identityColumn=NO
+column="`EVENTID`","`INSTID`","`REVISION`","`EVENT_TIME`","`TYPE`","`STATUS`","`MESSAGE`","`SPARE1`","`SPARE2`","`SPARE3`"

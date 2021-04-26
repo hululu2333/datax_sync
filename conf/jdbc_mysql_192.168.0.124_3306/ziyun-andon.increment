@@ -1,0 +1,6 @@
+# 关于ziyun-andon库的增量配置可以写在这里
+# tableName是将要进行增量导入的表名。incrementField是进行增量的依据，为date类型
+
+tableName=andon_fault_tag_statistics, incrementField=update_dt
+tableName=andon_fault_tag_statistics_copy1, incrementField=update_dt
+

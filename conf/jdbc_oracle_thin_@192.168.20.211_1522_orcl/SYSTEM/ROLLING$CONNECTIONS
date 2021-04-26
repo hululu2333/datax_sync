@@ -1,0 +1,15 @@
+columnName=`SOURCE_RDBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DEST_RDBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTRIBUTES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SERVICE_NAME`, dataType=String, dataLength=256, identityColumn=NO
+columnName=`CONN_HANDLE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CONNECT_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`SEND_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`DISCONNECT_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`UPDATE_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`SOURCE_PID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DEST_PID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=128, identityColumn=NO
+column="`SOURCE_RDBID`","`DEST_RDBID`","`ATTRIBUTES`","`SERVICE_NAME`","`CONN_HANDLE`","`CONNECT_TIME`","`SEND_TIME`","`DISCONNECT_TIME`","`UPDATE_TIME`","`SOURCE_PID`","`DEST_PID`","`SPARE1`","`SPARE2`","`SPARE3`"

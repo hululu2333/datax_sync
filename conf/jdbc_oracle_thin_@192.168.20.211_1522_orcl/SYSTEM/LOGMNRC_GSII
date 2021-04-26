@@ -1,0 +1,10 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BO#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INDTYPE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DROP_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_SPARE3`, dataType=String, dataLength=1000, identityColumn=NO
+columnName=`LOGMNR_SPARE4`, dataType=Date, dataLength=7, identityColumn=NO
+column="`LOGMNR_UID`","`OBJ#`","`BO#`","`INDTYPE#`","`DROP_SCN`","`LOGMNR_SPARE1`","`LOGMNR_SPARE2`","`LOGMNR_SPARE3`","`LOGMNR_SPARE4`"

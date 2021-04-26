@@ -1,0 +1,4 @@
+columnName=`NO`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`haha`, dataType=String, characterSetName=utf8, columnKey=
+column="`NO`","`name`","`haha`"

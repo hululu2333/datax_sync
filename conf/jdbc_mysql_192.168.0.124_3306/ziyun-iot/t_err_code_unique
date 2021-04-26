@@ -1,0 +1,4 @@
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`is_exist`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+column="`dev_template_unique_id`","`is_exist`","`create_date`"

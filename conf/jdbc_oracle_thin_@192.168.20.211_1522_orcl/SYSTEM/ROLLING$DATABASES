@@ -1,0 +1,20 @@
+columnName=`RDBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTRIBUTES`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ATTRIBUTES2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DBUN`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`DBID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PROD_RSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PROD_RID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PROD_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CONS_RSCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CONS_RID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CONS_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ENGINE_STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`VERSION`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`REDO_SOURCE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`UPDATE_TIME`, dataType=matching fail, dataLength=11, identityColumn=NO
+columnName=`REVISION`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=128, identityColumn=NO
+column="`RDBID`","`ATTRIBUTES`","`ATTRIBUTES2`","`DBUN`","`DBID`","`PROD_RSCN`","`PROD_RID`","`PROD_SCN`","`CONS_RSCN`","`CONS_RID`","`CONS_SCN`","`ENGINE_STATUS`","`VERSION`","`REDO_SOURCE`","`UPDATE_TIME`","`REVISION`","`SPARE1`","`SPARE2`","`SPARE3`"

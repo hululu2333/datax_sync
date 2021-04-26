@@ -1,0 +1,14 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_DID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_MDH`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PDB_NAME`, dataType=String, dataLength=384, identityColumn=NO
+columnName=`PDB_ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PDB_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`END_SCN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`SPARE4`, dataType=matching fail, dataLength=11, identityColumn=NO
+column="`LOGMNR_UID`","`LOGMNR_DID`","`LOGMNR_MDH`","`PDB_NAME`","`PDB_ID`","`PDB_UID`","`START_SCN`","`END_SCN`","`FLAGS`","`SPARE1`","`SPARE2`","`SPARE3`","`SPARE4`"

@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=UNI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`reg_location`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`real_location`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`province_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`city_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`district_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`dev_id`","`device_id`","`template_unique_id`","`hierarchy_code`","`reg_location`","`real_location`","`province_name`","`city_name`","`district_name`","`create_time`","`update_time`"

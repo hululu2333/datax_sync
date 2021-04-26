@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`excellent_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`fine_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`bad_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`batch_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`ohierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`excellent_num`","`fine_num`","`bad_num`","`batch_id`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`","`ohierarchy_code`","`status`"

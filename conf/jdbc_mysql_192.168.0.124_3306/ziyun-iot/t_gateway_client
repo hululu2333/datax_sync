@@ -1,0 +1,9 @@
+columnName=`client_id`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`client_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`describe`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`verify_identity_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`identity_key`, dataType=String, characterSetName=utf8, columnKey=
+column="`client_id`","`client_name`","`describe`","`status`","`create_time`","`update_time`","`verify_identity_id`","`identity_key`"

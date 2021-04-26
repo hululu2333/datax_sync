@@ -1,0 +1,3 @@
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=
+column="`pbox_id`","`dev_id`"

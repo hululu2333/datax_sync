@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`object_card_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`process_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`object_card_id`","`process_id`","`created_time`"

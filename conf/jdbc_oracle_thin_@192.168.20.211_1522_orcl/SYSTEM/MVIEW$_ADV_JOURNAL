@@ -1,0 +1,8 @@
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEQ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TIMESTAMP`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TEXTLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TEXT`, dataType=String, dataLength=0, identityColumn=NO
+column="`RUNID#`","`SEQ#`","`TIMESTAMP`","`FLAGS`","`NUM`","`TEXTLEN`","`TEXT`"

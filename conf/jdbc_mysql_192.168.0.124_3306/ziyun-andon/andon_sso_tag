@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`andon_ssoid`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tag_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`sso_tag_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tombstone`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`andon_ssoid`","`tag_id`","`sso_tag_name`","`tombstone`","`domain_id`","`create_dt`","`update_dt`"

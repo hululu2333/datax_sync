@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`team_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`constant_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`constant_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`describe`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`creator`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`modifier`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`gmtCreated`, dataType=Date, characterSetName=null, columnKey=
+columnName=`gmtModified`, dataType=Date, characterSetName=null, columnKey=
+columnName=`isDeleted`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`type`","`team_id`","`constant_key`","`constant_value`","`describe`","`creator`","`modifier`","`gmtCreated`","`gmtModified`","`isDeleted`","`hierarchy_code`"

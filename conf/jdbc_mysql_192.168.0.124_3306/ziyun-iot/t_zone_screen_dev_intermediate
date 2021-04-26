@@ -1,0 +1,17 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`calculate_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`industry`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`latitude`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`longitude`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_avg_operation_rate`, dataType=Double, characterSetName=null, columnKey=
+columnName=`dev_avg_working_rate`, dataType=Double, characterSetName=null, columnKey=
+columnName=`day_operation_time`, dataType=Long, characterSetName=null, columnKey=
+columnName=`day_working_time`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`calculate_time`","`domain_id`","`template_unique_id`","`device_id`","`pbox_id`","`hierarchy_code`","`org_name`","`industry`","`latitude`","`longitude`","`dev_avg_operation_rate`","`dev_avg_working_rate`","`day_operation_time`","`day_working_time`","`create_time`"

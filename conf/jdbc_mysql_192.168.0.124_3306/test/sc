@@ -1,0 +1,4 @@
+columnName=`sno`, dataType=Long, characterSetName=null, columnKey=
+columnName=`cno`, dataType=Long, characterSetName=null, columnKey=
+columnName=`score`, dataType=Long, characterSetName=null, columnKey=
+column="`sno`","`cno`","`score`"

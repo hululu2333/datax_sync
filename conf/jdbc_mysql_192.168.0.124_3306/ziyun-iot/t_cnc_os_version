@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`cnc_os_brand_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`version`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`cnc_os_brand_id`","`version`","`create_time`","`update_time`"

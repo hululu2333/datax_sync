@@ -1,0 +1,13 @@
+columnName=`receiver_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`receiver_define_tag`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`receiver_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`receiver_phone_1`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`receiver_phone_2`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by_idm_sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by_idm_sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`message_template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`idm_h_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_define_id`, dataType=Long, characterSetName=null, columnKey=
+column="`receiver_id`","`receiver_define_tag`","`receiver_name`","`receiver_phone_1`","`receiver_phone_2`","`create_date`","`create_by_idm_sso_id`","`update_date`","`update_by_idm_sso_id`","`message_template_id`","`idm_h_code`","`event_define_id`"

@@ -1,0 +1,9 @@
+columnName=`NODE_TEXTLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OL_NAME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NODE_NAME`, dataType=String, dataLength=64, identityColumn=NO
+columnName=`NODE_TEXTOFF`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NODE_ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CATEGORY`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`NODE_TYPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PARENT_ID`, dataType=Long, dataLength=22, identityColumn=NO
+column="`NODE_TEXTLEN`","`OL_NAME`","`NODE_NAME`","`NODE_TEXTOFF`","`NODE_ID`","`CATEGORY`","`NODE_TYPE`","`PARENT_ID`"

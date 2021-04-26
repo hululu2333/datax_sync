@@ -1,0 +1,11 @@
+columnName=`order_id`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`customer_company`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`area`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`detail_area`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`number`, dataType=Long, characterSetName=null, columnKey=
+columnName=`amount`, dataType=Double, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`salesperson`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`order_id`","`customer_company`","`area`","`detail_area`","`order_type`","`number`","`amount`","`create_time`","`salesperson`","`domain_id`"

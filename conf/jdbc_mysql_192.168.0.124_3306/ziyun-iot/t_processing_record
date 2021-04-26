@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`work_list_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`processing_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`processing_sso_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`check_class_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`field_cause`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`processing_description`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`work_list_id`","`processing_time`","`processing_sso_id`","`check_class_id`","`field_cause`","`processing_description`","`hierarchy_code`","`is_deleted`","`created_time`","`updated_time`"

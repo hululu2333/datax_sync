@@ -1,0 +1,17 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`upgrade_from_version_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`upgrade_to_version_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`upgrade_plan_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`apply_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`complete_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`download_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`md5_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`last_update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`pbox_upgrade_result`, dataType=Long, characterSetName=null, columnKey=
+columnName=`pbox_upgrade_message`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`template_unique_id`","`pbox_id`","`dev_id`","`upgrade_from_version_id`","`upgrade_to_version_id`","`upgrade_plan_id`","`state`","`apply_time`","`complete_time`","`download_url`","`md5_value`","`create_time`","`last_update_time`","`pbox_upgrade_result`","`pbox_upgrade_message`"

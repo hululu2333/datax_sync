@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`code`, dataType=Long, characterSetName=null, columnKey=
+columnName=`resMessage`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`template_unique_id`","`device_id`","`code`","`resMessage`","`create_date`","`update_date`"

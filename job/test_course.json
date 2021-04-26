@@ -1,0 +1,73 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "mysqlreader", 
+                    "parameter": {
+                        "column": [
+						"id",
+						"name",
+						"grade",
+						"student_id"
+						], 
+                        "connection": [
+                            {
+                                "jdbcUrl": ["jdbc:mysql://192.168.0.124:3306/test"], 
+                                "table": ["test_course"]
+                            }
+                        ], 
+                        "password": "Pass1234", 
+                        "username": "ziyunIot", 
+                        "where": ""
+                    }
+                }, 
+                "writer": {
+                     "name": "hdfswriter",
+                    "parameter": {
+                        "fileType": "text",
+                        "path": "/user/hive/warehouse/datax.db/test_course",
+                        "fileName": "test_course",
+                        "column": [
+                            {
+                                "name": "id",
+                                "type": "INT"
+                            },
+                            {
+                                "name": "name",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "grade",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "student_id",
+                                "type": "STRING"
+                            }
+                        ],
+                        "writeMode": "nonConflict",
+                        "fieldDelimiter": ",",
+                        "compress":"gzip",
+						"defaultFS": "hdfs://nameservice1",
+						"hadoopConfig": {
+                                                "parquet.compression":"SNAPPY",
+                                                "hive.exec.compress.output":true,
+                                                "mapred.output.compression.codec":"org.apache.hadoop.io.compress.SnappyCodec",
+						"dfs.nameservices": "nameservice1",
+						"dfs.ha.namenodes.nameservice1": "nn1,nn2",
+						"dfs.namenode.rpc-address.nameservice1.nn1": "ziyunbd01:8020",
+						"dfs.namenode.rpc-address.nameservice1.nn2": "ziyunbd02:8020",
+						"dfs.client.failover.proxy.provider.nameservice1": "org.apache.hadoop.hdfs.server.namenode.ha.ConfiguredFailoverProxyProvider"
+						}
+					}
+				}
+			}
+        ], 
+        "setting": {
+            "speed": {
+                "channel": "1"
+            }
+        }
+    }
+}

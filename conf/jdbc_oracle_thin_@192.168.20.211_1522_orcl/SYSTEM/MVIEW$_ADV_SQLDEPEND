@@ -1,0 +1,9 @@
+columnName=`COLLECTIONID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INST_ID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FROM_ADDRESS`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`FROM_HASH`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TO_OWNER`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`TO_NAME`, dataType=String, dataLength=1000, identityColumn=NO
+columnName=`TO_TYPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CARDINALITY`, dataType=Long, dataLength=22, identityColumn=NO
+column="`COLLECTIONID#`","`INST_ID`","`FROM_ADDRESS`","`FROM_HASH`","`TO_OWNER`","`TO_NAME`","`TO_TYPE`","`CARDINALITY`"

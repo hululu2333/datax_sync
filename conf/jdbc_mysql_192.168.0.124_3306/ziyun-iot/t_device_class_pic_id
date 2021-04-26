@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`class_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`pic_sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`class_id`","`pic_sso_id`","`create_time`","`update_time`"

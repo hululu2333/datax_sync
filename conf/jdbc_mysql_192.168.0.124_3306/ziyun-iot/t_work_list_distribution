@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`work_list_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`person_liable_sso_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`closing_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`person_liable_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dis_type`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`work_list_id`","`person_liable_sso_id`","`closing_date`","`created_by`","`created_time`","`is_deleted`","`person_liable_name`","`dis_type`"

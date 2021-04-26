@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`event_trigger_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`idm_client_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`process_status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_message`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`event_route_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`event_route_configuration`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`event_trigger_id`","`create_time`","`idm_client_id`","`dev_template_unique_id`","`process_status`","`event_message`","`device_id`","`update_time`","`event_route_id`","`event_route_configuration`"

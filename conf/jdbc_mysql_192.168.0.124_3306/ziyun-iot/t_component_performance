@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`component_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`task_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`task_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`preset_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`lastset_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`stat_count_success`, dataType=Long, characterSetName=null, columnKey=
+columnName=`stat_count_failure`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`component_name`","`task_name`","`task_type`","`preset_date`","`lastset_date`","`create_date`","`stat_count_success`","`stat_count_failure`"

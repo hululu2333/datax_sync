@@ -1,0 +1,9 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BASEOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BASEOBJV#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`KEYOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PART#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE2`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE3`, dataType=String, dataLength=1000, identityColumn=NO
+column="`LOGMNR_UID`","`BASEOBJ#`","`BASEOBJV#`","`KEYOBJ#`","`PART#`","`SPARE1`","`SPARE2`","`SPARE3`"

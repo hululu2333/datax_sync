@@ -1,0 +1,16 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`process_pkg_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`process_pkg_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_occupied`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`is_deleted`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`production_materiel_num`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_enabled`, dataType=Long, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`process_pkg_no`","`process_pkg_name`","`hierarchy_code`","`is_occupied`","`created_by`","`created_name`","`created_time`","`updated_by`","`updated_name`","`updated_time`","`is_deleted`","`production_materiel_num`","`is_enabled`","`org_hierarchy_code`"

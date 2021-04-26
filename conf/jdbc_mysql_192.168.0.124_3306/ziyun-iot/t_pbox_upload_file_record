@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`upload_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`save_path`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`file_original_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`file_md5_value`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`pbox_id`","`dev_id`","`upload_time`","`save_path`","`file_original_name`","`file_md5_value`"

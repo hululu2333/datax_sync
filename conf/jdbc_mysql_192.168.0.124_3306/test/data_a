@@ -1,0 +1,10 @@
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ele_v`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`a`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`b`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`temp_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`temp_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pbox_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sign`, dataType=String, characterSetName=utf8, columnKey=
+column="`device_id`","`ele_v`","`a`","`b`","`id`","`temp_id`","`temp_name`","`pbox_no`","`sign`"

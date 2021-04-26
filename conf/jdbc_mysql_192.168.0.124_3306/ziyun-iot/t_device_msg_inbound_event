@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`msg_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`idm_client_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_template_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`message`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`protocol`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`module_name`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`msg_no`","`create_time`","`status`","`host`","`idm_client_id`","`dev_template_id`","`message`","`protocol`","`module_name`"

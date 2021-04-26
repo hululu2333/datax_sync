@@ -1,0 +1,5 @@
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CLEVELID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PLEVELID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`RUNID#`","`CLEVELID#`","`PLEVELID#`","`FLAGS`"

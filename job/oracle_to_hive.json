@@ -1,0 +1,48 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "oraclereader", 
+                    "parameter": {
+                        "column": [ ${oracle_columns} ], 
+                        "connection": [
+                            {
+                                "jdbcUrl": ["${oracle_url}"], 
+                                "table": ["${oracle_table}"]
+                            }
+                        ], 
+                        "password": "${oracle_password}", 
+                        "username": "${oracle_username}", 
+                        "where": "${increment_sql}"
+                    }
+                }, 
+                "writer": {
+                     "name": "hdfswriter",
+                    "parameter": {
+                        "fileType": "text",
+                        "path": "${hive_table_path}",
+                        "fileName": "${hive_table_name}",
+                        "column": [ ${hive_columns} ],
+                        "writeMode": "append",
+                        "fieldDelimiter": "\t",
+                        "compress":"gzip",
+						"defaultFS": "hdfs://nameservice1",
+						"hadoopConfig": {
+						"dfs.nameservices": "nameservice1",
+						"dfs.ha.namenodes.nameservice1": "nn1,nn2",
+						"dfs.namenode.rpc-address.nameservice1.nn1": "ziyunbd01:8020",
+						"dfs.namenode.rpc-address.nameservice1.nn2": "ziyunbd02:8020",
+						"dfs.client.failover.proxy.provider.nameservice1": "org.apache.hadoop.hdfs.server.namenode.ha.ConfiguredFailoverProxyProvider"
+						}
+					}
+				}
+			}
+        ], 
+        "setting": {
+            "speed": {
+                "channel": "3"
+            }
+        }
+    }
+}

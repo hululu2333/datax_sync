@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`plan_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`item_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`plan_id`","`item_id`","`update_time`","`update_by`","`is_deleted`"

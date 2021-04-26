@@ -1,0 +1,10 @@
+columnName=`tag_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`org_tag_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`tombstone`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_sso`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_sso`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`tag_id`","`org_tag_name`","`org_id`","`tombstone`","`domain_id`","`create_sso`","`create_dt`","`update_sso`","`update_dt`"

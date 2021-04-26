@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`object_card_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Boolean, characterSetName=null, columnKey=
+column="`id`","`sso_id`","`object_card_id`","`create_time`","`update_time`","`template_unique_id`","`hierarchy_code`","`org_hierarchy_code`","`is_deleted`"

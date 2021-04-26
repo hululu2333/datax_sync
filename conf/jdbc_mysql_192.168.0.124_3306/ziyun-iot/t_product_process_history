@@ -1,0 +1,12 @@
+columnName=`history_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`process_detail_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`current_process_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`next_process_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`current_process`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`current_process_sort`, dataType=Long, characterSetName=null, columnKey=
+columnName=`current_plan_prd_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`plan_status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`employee_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`history_id`","`process_detail_id`","`current_process_id`","`next_process_id`","`current_process`","`current_process_sort`","`current_plan_prd_num`","`plan_status`","`sso_id`","`employee_name`","`create_time`"

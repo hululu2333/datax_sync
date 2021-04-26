@@ -1,0 +1,9 @@
+columnName=`OID`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`DESTINATION`, dataType=String, dataLength=390, identityColumn=NO
+columnName=`START_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`DURATION`, dataType=String, dataLength=8, identityColumn=NO
+columnName=`NEXT_TIME`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`LATENCY`, dataType=String, dataLength=8, identityColumn=NO
+columnName=`LAST_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`JOBNO`, dataType=Long, dataLength=22, identityColumn=NO
+column="`OID`","`DESTINATION`","`START_TIME`","`DURATION`","`NEXT_TIME`","`LATENCY`","`LAST_TIME`","`JOBNO`"

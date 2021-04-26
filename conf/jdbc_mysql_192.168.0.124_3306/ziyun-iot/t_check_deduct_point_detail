@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`deduct_point_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`check_item_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`check_standard`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`picture_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`repeat_check_operator_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`deduct_question`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`deduct_question_answer`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`check_task_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`recommended_point`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`deduct_point_id`","`check_item_name`","`check_standard`","`picture_url`","`repeat_check_operator_name`","`deduct_question`","`deduct_question_answer`","`check_task_id`","`recommended_point`","`created_time`","`updated_time`","`is_deleted`"

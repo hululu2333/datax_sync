@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_group_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`event_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+columnName=`defined_key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`defined_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`destination_addr`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`device_group_id`","`hierarchy_code`","`org_hierarchy_code`","`template_unique_id`","`event_type`","`create_time`","`is_deleted`","`defined_key`","`defined_value`","`destination_addr`"

@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`repeat_check_task_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`check_task_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`check_result`, dataType=Long, characterSetName=null, columnKey=
+columnName=`repeat_check_status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`check_task_detail`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`picture_url`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`taskRemarks`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`task_remarks`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`repeat_check_task_id`","`check_task_id`","`check_result`","`repeat_check_status`","`check_task_detail`","`picture_url`","`taskRemarks`","`task_remarks`"

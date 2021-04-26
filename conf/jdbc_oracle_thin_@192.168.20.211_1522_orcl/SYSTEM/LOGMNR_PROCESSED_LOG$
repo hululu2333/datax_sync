@@ -1,0 +1,12 @@
+columnName=`SESSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`THREAD#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SEQUENCE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FIRST_CHANGE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NEXT_CHANGE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FIRST_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`NEXT_TIME`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`FILE_NAME`, dataType=String, dataLength=513, identityColumn=NO
+columnName=`STATUS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INFO`, dataType=String, dataLength=32, identityColumn=NO
+columnName=`TIMESTAMP`, dataType=Date, dataLength=7, identityColumn=NO
+column="`SESSION#`","`THREAD#`","`SEQUENCE#`","`FIRST_CHANGE#`","`NEXT_CHANGE#`","`FIRST_TIME`","`NEXT_TIME`","`FILE_NAME`","`STATUS`","`INFO`","`TIMESTAMP`"

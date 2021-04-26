@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`instance_no`, dataType=String, characterSetName=utf8mb4, columnKey=UNI
+columnName=`name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`description`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`type`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`instance_type`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`instance_no`","`name`","`description`","`state`","`type`","`template_id`","`create_time`","`update_time`","`instance_type`"

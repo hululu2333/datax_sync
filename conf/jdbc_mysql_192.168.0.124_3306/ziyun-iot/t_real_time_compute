@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`compute_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`collector_version_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`compite_desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`language`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`script`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`compute_name`","`collector_version_id`","`compite_desc`","`language`","`script`","`domain_id`","`org_hierarchy_code`","`create_by`","`update_by`","`create_time`","`update_time`"

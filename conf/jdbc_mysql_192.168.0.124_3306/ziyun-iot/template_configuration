@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`key`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`desc`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`key`","`value`","`desc`","`template_id`","`create_time`"

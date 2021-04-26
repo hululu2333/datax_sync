@@ -1,0 +1,14 @@
+columnName=`COL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INTCOL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TOID`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`VERSION#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`PACKED`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INTCOLS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`INTCOL#S`, dataType=Bytes, dataLength=2000, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TYPIDCOL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SYNOBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`COL#`","`INTCOL#`","`TOID`","`VERSION#`","`PACKED`","`INTCOLS`","`INTCOL#S`","`FLAGS`","`TYPIDCOL#`","`SYNOBJ#`","`OBJ#`","`LOGMNR_UID`","`LOGMNR_FLAGS`"

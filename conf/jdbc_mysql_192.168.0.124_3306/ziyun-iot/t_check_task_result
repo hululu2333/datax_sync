@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`check_task_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`boolean_value`, dataType=Long, characterSetName=null, columnKey=
+columnName=`number_value`, dataType=Double, characterSetName=null, columnKey=
+columnName=`text_value`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`check_task_id`","`template_id`","`boolean_value`","`number_value`","`text_value`"

@@ -1,0 +1,6 @@
+columnName=`SUMOBJN#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BYTECOST`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+column="`SUMOBJN#`","`RUNID#`","`BYTECOST`","`FLAGS`","`FREQUENCY`"

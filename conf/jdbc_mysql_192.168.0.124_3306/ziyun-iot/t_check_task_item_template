@@ -1,0 +1,4 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`task_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`task_id`","`template_id`"

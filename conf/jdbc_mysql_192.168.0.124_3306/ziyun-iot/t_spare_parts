@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`work_list_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`receive_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`receive_sso_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`spare_parts_no`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`spare_parts_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`specification_model`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`spare_parts_num`, dataType=Double, characterSetName=null, columnKey=
+columnName=`spare_parts_company`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`is_deleted`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`price`, dataType=Double, characterSetName=null, columnKey=
+column="`id`","`work_list_id`","`receive_time`","`receive_sso_id`","`spare_parts_no`","`spare_parts_name`","`specification_model`","`spare_parts_num`","`spare_parts_company`","`hierarchy_code`","`is_deleted`","`price`"

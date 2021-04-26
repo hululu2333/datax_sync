@@ -1,0 +1,11 @@
+columnName=`CON#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`COLS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TYPE#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ROBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RCON#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ENABLED`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`DEFER`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`CON#`","`COLS`","`TYPE#`","`ROBJ#`","`RCON#`","`ENABLED`","`DEFER`","`OBJ#`","`LOGMNR_UID`","`LOGMNR_FLAGS`"

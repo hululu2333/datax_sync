@@ -1,0 +1,4 @@
+columnName=`AGENT_NAME`, dataType=String, dataLength=512, identityColumn=NO
+columnName=`PROTOCOL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SPARE1`, dataType=String, dataLength=128, identityColumn=NO
+column="`AGENT_NAME`","`PROTOCOL`","`SPARE1`"

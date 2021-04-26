@@ -1,0 +1,5 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`deploy_task_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`component_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`deploy_task_id`","`component_id`","`create_time`"

@@ -1,0 +1,7 @@
+columnName=`AJGID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`AJGDESLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`HASHVALUE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`AJGDES`, dataType=Bytes, dataLength=0, identityColumn=NO
+column="`AJGID#`","`RUNID#`","`AJGDESLEN`","`HASHVALUE`","`FREQUENCY`","`AJGDES`"

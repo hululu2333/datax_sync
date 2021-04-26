@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`maintenance_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`current_maintenance_cycle`, dataType=Long, characterSetName=null, columnKey=
+columnName=`operator_sso_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`maintenance_id`","`create_time`","`current_maintenance_cycle`","`operator_sso_id`"

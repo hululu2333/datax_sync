@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`operate_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=UNI
+columnName=`refresh_token`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`access_token`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`operate_time`","`sso_id`","`refresh_token`","`access_token`"

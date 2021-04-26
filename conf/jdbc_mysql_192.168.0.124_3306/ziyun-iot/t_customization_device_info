@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`page_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`location_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`device_id`","`page_num`","`location_id`","`hierarchy_code`"

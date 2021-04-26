@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`attribute2`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`attribute3`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`isDeleted`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`factory_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`device_no`","`device_code`","`device_name`","`attribute2`","`attribute3`","`created_by`","`created_time`","`updated_by`","`updated_time`","`isDeleted`","`hierarchy_code`","`factory_hierarchy_code`","`template_id`"

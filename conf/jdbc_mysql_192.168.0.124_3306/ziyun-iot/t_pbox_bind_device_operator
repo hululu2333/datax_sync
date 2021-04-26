@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`operator_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`operator_result`, dataType=Long, characterSetName=null, columnKey=
+columnName=`template_unique_Id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`operator_uuid`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`pbox_id`","`dev_id`","`device_id`","`operator_type`","`operator_result`","`template_unique_Id`","`create_time`","`create_by`","`operator_uuid`"

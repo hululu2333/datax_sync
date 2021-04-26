@@ -1,0 +1,4 @@
+columnName=`MachineID`, dataType=Long, characterSetName=null, columnKey=
+columnName=`CommandID`, dataType=Long, characterSetName=null, columnKey=
+columnName=`ColTime`, dataType=Date, characterSetName=null, columnKey=
+column="`MachineID`","`CommandID`","`ColTime`"

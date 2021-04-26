@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`employee_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`prod_plan_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`process_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`process_sort`, dataType=Long, characterSetName=null, columnKey=
+columnName=`jobs_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`unqualified_detail_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`produce_count`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`sso_id`","`employee_name`","`order_id`","`order_no`","`prod_plan_id`","`process_id`","`process_sort`","`jobs_id`","`unqualified_detail_id`","`created_time`","`produce_count`"

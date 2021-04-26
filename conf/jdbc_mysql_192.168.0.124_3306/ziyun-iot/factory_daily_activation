@@ -1,0 +1,8 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`device_activation`, dataType=Double, characterSetName=null, columnKey=
+columnName=`hourly_yield`, dataType=Long, characterSetName=null, columnKey=
+columnName=`caculate_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`dev_template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`device_id`","`device_activation`","`hourly_yield`","`caculate_time`","`dev_template_unique_id`","`create_time`"

@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`status_define_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`status_define_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`template_id`","`template_unique_id`","`status_define_id`","`status_define_name`","`create_date`","`create_by`","`update_date`","`update_by`"

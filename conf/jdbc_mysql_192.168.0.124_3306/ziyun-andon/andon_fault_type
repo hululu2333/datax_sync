@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`fault_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`fault_tag_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`fault_org_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tombstone`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`fault_name`","`fault_tag_id`","`fault_org_id`","`domain_id`","`tombstone`","`create_dt`","`update_dt`"

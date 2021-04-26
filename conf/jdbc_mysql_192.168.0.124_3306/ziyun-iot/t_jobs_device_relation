@@ -1,0 +1,6 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`job_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`device_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`job_id`","`device_id`","`device_name`","`template_unique_id`"

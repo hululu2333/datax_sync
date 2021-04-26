@@ -1,0 +1,10 @@
+columnName=`CLIQUEID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`RUNID#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CLIQUEDESLEN`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`HASHVALUE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FREQUENCY`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`BYTECOST`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`ROWSIZE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`NUMROWS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CLIQUEDES`, dataType=Bytes, dataLength=0, identityColumn=NO
+column="`CLIQUEID#`","`RUNID#`","`CLIQUEDESLEN`","`HASHVALUE`","`FREQUENCY`","`BYTECOST`","`ROWSIZE`","`NUMROWS`","`CLIQUEDES`"

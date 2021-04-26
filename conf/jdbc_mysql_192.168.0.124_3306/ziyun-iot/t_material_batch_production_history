@@ -1,0 +1,14 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`number`, dataType=Long, characterSetName=null, columnKey=
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`batch_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`status`, dataType=Long, characterSetName=null, columnKey=
+columnName=`current_process_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`next_process_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`current_process_sort`, dataType=Long, characterSetName=null, columnKey=
+columnName=`device_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`number`","`order_id`","`order_no`","`batch_id`","`status`","`current_process_id`","`next_process_id`","`current_process_sort`","`device_id`","`created_by`","`created_time`","`is_deleted`"

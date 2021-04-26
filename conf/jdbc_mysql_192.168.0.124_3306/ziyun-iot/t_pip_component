@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`cn_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`host`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`ip_address`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`deploy_path`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`pid`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`state`, dataType=Long, characterSetName=null, columnKey=
+columnName=`pip_instance_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`name`","`cn_name`","`host`","`ip_address`","`deploy_path`","`pid`","`state`","`pip_instance_id`","`create_time`","`update_time`"

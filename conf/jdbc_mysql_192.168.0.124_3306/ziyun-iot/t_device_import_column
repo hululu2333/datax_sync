@@ -1,0 +1,12 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`exce_type`, dataType=Long, characterSetName=null, columnKey=
+columnName=`title_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`title_min_length`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`title_max_length`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`title_order`, dataType=Long, characterSetName=null, columnKey=
+columnName=`is_must`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`column_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`column_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`exce_type`","`title_name`","`title_min_length`","`title_max_length`","`title_order`","`is_must`","`column_type`","`column_name`","`create_time`","`update_time`"

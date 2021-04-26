@@ -1,0 +1,4 @@
+columnName=`cno`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`cname`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tno`, dataType=Long, characterSetName=null, columnKey=
+column="`cno`","`cname`","`tno`"

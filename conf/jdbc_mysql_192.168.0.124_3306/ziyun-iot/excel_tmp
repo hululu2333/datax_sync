@@ -1,0 +1,5 @@
+columnName=`pbox_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`project_no`, dataType=Long, characterSetName=null, columnKey=
+column="`pbox_id`","`device_id`","`template_id`","`project_no`"

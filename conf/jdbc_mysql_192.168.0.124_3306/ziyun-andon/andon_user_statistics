@@ -1,0 +1,13 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`statistics_date`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`tag_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`average_duration`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`average_duration_value`, dataType=Long, characterSetName=null, columnKey=
+columnName=`link_relative`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`org_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`status`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`domain_id`, dataType=String, characterSetName=utf8mb4, columnKey=
+column="`id`","`statistics_date`","`sso_id`","`tag_id`","`average_duration`","`average_duration_value`","`link_relative`","`org_id`","`create_dt`","`update_dt`","`status`","`domain_id`"

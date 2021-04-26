@@ -1,0 +1,17 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`andon_deviceid`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`device_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`call_tag_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`call_org_hcode`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`call_follow_status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`tombstone`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`call_executor`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`call_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`order_executor`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`finish_executor`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`finish_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_dt`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_dt`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`andon_deviceid`","`device_name`","`device_type`","`call_tag_id`","`call_org_hcode`","`call_follow_status`","`tombstone`","`call_executor`","`call_date`","`order_executor`","`order_date`","`finish_executor`","`finish_date`","`create_dt`","`update_dt`"

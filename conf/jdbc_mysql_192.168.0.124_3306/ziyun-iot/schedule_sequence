@@ -1,0 +1,4 @@
+columnName=`seq_name`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`current_val`, dataType=Long, characterSetName=null, columnKey=
+columnName=`increment_val`, dataType=Long, characterSetName=null, columnKey=
+column="`seq_name`","`current_val`","`increment_val`"

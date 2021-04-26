@@ -1,0 +1,9 @@
+columnName=`device_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`coltime`, dataType=Date, characterSetName=null, columnKey=
+columnName=`Voltage`, dataType=Double, characterSetName=null, columnKey=
+columnName=`Current`, dataType=Double, characterSetName=null, columnKey=
+columnName=`ActivePower`, dataType=Double, characterSetName=null, columnKey=
+columnName=`PowerFactor`, dataType=Double, characterSetName=null, columnKey=
+columnName=`Frequency`, dataType=Double, characterSetName=null, columnKey=
+columnName=`TotalActivePower`, dataType=Double, characterSetName=null, columnKey=
+column="`device_id`","`coltime`","`Voltage`","`Current`","`ActivePower`","`PowerFactor`","`Frequency`","`TotalActivePower`"

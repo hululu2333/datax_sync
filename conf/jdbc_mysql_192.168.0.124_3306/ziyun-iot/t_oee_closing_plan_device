@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`consing_plan_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`device_group_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`template_unique_id`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`consing_plan_id`","`device_group_id`","`dev_id`","`create_time`","`create_by`","`update_time`","`update_by`","`template_unique_id`","`is_deleted`"

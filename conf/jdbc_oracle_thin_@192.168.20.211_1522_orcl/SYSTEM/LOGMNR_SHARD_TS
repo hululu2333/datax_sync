@@ -1,0 +1,6 @@
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TABLESPACE_NAME`, dataType=String, dataLength=90, identityColumn=NO
+columnName=`CHUNK_NUMBER`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_SCNBAS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`START_SCNWRP`, dataType=Long, dataLength=22, identityColumn=NO
+column="`LOGMNR_UID`","`TABLESPACE_NAME`","`CHUNK_NUMBER`","`START_SCNBAS`","`START_SCNWRP`"

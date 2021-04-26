@@ -1,0 +1,9 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`streaming_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`streaming_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`streaming_rule`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+column="`id`","`streaming_name`","`streaming_type`","`streaming_rule`","`create_date`","`create_by`","`update_date`","`update_by`"

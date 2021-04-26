@@ -1,0 +1,11 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`img`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`href`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`place`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`describe`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`flag`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`img`","`href`","`create_time`","`update_time`","`place`","`type`","`name`","`describe`","`flag`"

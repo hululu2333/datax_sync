@@ -1,0 +1,13 @@
+columnName=`INTCOL#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`TYPE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOBCOL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`OBJCOL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`EXTRACOL`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SCHEMAOID`, dataType=Bytes, dataLength=16, identityColumn=NO
+columnName=`ELEMNUM`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`SCHEMAURL`, dataType=String, dataLength=4000, identityColumn=NO
+columnName=`OBJ#`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_UID`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`LOGMNR_FLAGS`, dataType=Long, dataLength=22, identityColumn=NO
+column="`INTCOL#`","`TYPE`","`FLAGS`","`LOBCOL`","`OBJCOL`","`EXTRACOL`","`SCHEMAOID`","`ELEMNUM`","`SCHEMAURL`","`OBJ#`","`LOGMNR_UID`","`LOGMNR_FLAGS`"

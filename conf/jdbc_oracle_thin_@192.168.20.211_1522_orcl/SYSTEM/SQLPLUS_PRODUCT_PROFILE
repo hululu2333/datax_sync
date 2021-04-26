@@ -1,0 +1,9 @@
+columnName=`PRODUCT`, dataType=String, dataLength=30, identityColumn=NO
+columnName=`USERID`, dataType=String, dataLength=128, identityColumn=NO
+columnName=`ATTRIBUTE`, dataType=String, dataLength=240, identityColumn=NO
+columnName=`SCOPE`, dataType=String, dataLength=240, identityColumn=NO
+columnName=`NUMERIC_VALUE`, dataType=Long, dataLength=22, identityColumn=NO
+columnName=`CHAR_VALUE`, dataType=String, dataLength=240, identityColumn=NO
+columnName=`DATE_VALUE`, dataType=Date, dataLength=7, identityColumn=NO
+columnName=`LONG_VALUE`, dataType=String, dataLength=0, identityColumn=NO
+column="`PRODUCT`","`USERID`","`ATTRIBUTE`","`SCOPE`","`NUMERIC_VALUE`","`CHAR_VALUE`","`DATE_VALUE`","`LONG_VALUE`"

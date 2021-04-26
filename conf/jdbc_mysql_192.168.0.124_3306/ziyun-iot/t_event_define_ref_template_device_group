@@ -1,0 +1,4 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`event_define_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`template_device_group_id`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`event_define_id`","`template_device_group_id`"

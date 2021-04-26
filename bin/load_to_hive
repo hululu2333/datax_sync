@@ -1,0 +1,94 @@
+#!/bin/bash
+
+# 这个脚本的功能是，根据数据源配置文件，和一些传入的参数
+# 构建json文件，并执行datax的数据传输任务
+# 传入参数：$1为源数据库类型 $2为源数据库名 $3为源数据库配置文件路径 $4为目标数据库在hdfs上的储存路径
+
+base_path=$(cd `dirname $0`;pwd)
+conf_dir=${base_path}/../conf
+job_dir=${base_path}/../job
+
+# 判断源数据库类型，不同源数据库对应不同的json模板
+if [ $1 = mysql ]; then
+
+    mysql_url=$(cat ${conf_dir}/databases.properties | grep mysql_url | sed 's/mysql_url=//g')$2
+    mysql_username=$(cat ${conf_dir}/databases.properties | grep mysql_username | sed 's/mysql_username=//g')
+    mysql_password=$(cat ${conf_dir}/databases.properties | grep mysql_password | sed 's/mysql_password=//g')
+
+    increment_tables=""
+    total_tables=""
+    # 一个循环同步一张表
+    for table in $(ls $3)
+    do
+        echo "开始同步一张表"
+        mysql_columns=$(cat $3/${table} | grep column= | sed 's/column=//g')
+        mysql_table=${table}
+        hive_table_path=$4/${table}
+        hive_table_name=${table}
+        hive_columns=$(cat $3/${table} | grep columnName | cut -d ',' -f 1,2 | tr -s "\n" " " | sed 's/ columnName=/"},{"name":"/g' | sed 's/, dataType=/","type":"/g' | sed 's/columnName=/{"name":"/g' | sed 's/Long/BIGINT/g' | sed 's/Double/DOUBLE/g' | sed 's/String/STRING/g' | sed 's/Boolean/BOOLEAN/g' | sed 's/Date/DATE/g')
+        hive_columns=${hive_columns%?}\"}
+
+        # 判断是增量还是全量，默认为全量
+        #today=`date +%F`
+        #before_yesterday=`date -d "-2 day" +%F`
+        today=2021-02-06
+        before_yesterday=2021-02-04
+
+        mode=total
+  echo "增量配置文件："$3.increment #
+        if [ -f $3.increment ]; then
+            maybe_results=$(cat $3.increment | grep tableName= | sed 's/tableName=//g' | sed 's/ incrementField=//g' | grep ${table})
+            
+  echo "$3.increment是文件，进入判断"#
+  echo "maybe_results："${maybe_results}
+
+            # 如果a为空，则该表必不在增量配置里。如果a不为空，还需要判断
+            if [ -n "${maybe_results}" ]; then
+            array=(${maybe_results})
+            for each in ${array[@]}
+            do
+                array1=(${each/,/ })
+
+                increment_table_name=${array1[0]}
+                increment_field_name=${array1[1]}
+
+                echo "表名："${array1[0]}
+                echo "字段名："${array1[1]}
+
+                if [ ${table} = ${increment_table_name} ]; then
+                    mode=increment
+                    break
+                fi
+            done
+            fi
+        fi
+
+
+        if [ ${mode} = total ]; then
+            echo "开始全量同步表${table}"
+            python ${base_path}/../../bin/datax.py ${job_dir}/mysql_to_hive.json -p "-Dmysql_columns='${mysql_columns}' -Dmysql_url='${mysql_url}' -Dmysql_username='${mysql_username}' -Dmysql_password='${mysql_password}' -Dmysql_table='${mysql_table}' -Dhive_table_path='${hive_table_path}' -Dhive_table_name='${hive_table_name}' -Dhive_columns='${hive_columns}' -Dincrement_sql='1=1'"
+            result=$?
+            echo "${table}表全量同步的结果为"$?
+            total_tables=${table}" "${total_tables}
+
+        else
+            echo "开始增量同步表${table}"
+            echo "query_sql_info: "$increment_field_name" "${before_yesterday}" "${today}
+            python ${base_path}/../../bin/datax.py ${job_dir}/mysql_to_hive_increment.json -p "-Dmysql_columns='${mysql_columns}' -Dmysql_url='${mysql_url}' -Dmysql_username='${mysql_username}' -Dmysql_password='${mysql_password}' -Dmysql_table='${mysql_table}' -Dhive_table_path='${hive_table_path}' -Dhive_table_name='${hive_table_name}' -Dhive_columns='${hive_columns}' -Dincrement_field_name='${increment_field_name}' -Dstart_time='${before_yesterday}' -Dincrement_field_name1='${increment_field_name}' -Dend_time='${today}'"
+            result=$?
+            echo "${table}表增量同步的结果为"$?
+            increment_tables=${table}" "${increment_tables}
+        fi
+    done
+    
+    # 验证数据导入是否成功
+    echo "开始验证数据导入结果"
+    echo "increment_tables："${increment_tables}
+    echo "total_tables："${total_tables}
+
+    ${base_path}/verify_hive_load_result $4 "${increment_tables}" "${total_tables}"
+    
+else
+    echo "数据源类型错误"
+    exit 1
+fi 

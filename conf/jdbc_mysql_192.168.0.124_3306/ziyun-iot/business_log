@@ -1,0 +1,10 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`biz_name`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`old_value`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`new_value`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`description`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`ip`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`mac`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_by`, dataType=String, characterSetName=utf8mb4, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`id`","`biz_name`","`old_value`","`new_value`","`description`","`ip`","`mac`","`create_by`","`create_time`"

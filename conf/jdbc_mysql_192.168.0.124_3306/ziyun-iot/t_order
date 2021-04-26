@@ -1,0 +1,15 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`client_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`delivery_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`org_hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`hierarchy_code`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`created_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`updated_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`updated_time`, dataType=Date, characterSetName=null, columnKey=MUL
+columnName=`is_deleted`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`order_type`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`order_no`","`client_name`","`order_time`","`delivery_time`","`org_hierarchy_code`","`hierarchy_code`","`status`","`created_by`","`created_time`","`updated_by`","`updated_time`","`is_deleted`","`order_type`"

@@ -1,0 +1,7 @@
+columnName=`field_name`, dataType=String, characterSetName=utf8, columnKey=PRI
+columnName=`field_type`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`field_value`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`dev_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`create_date`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_date`, dataType=Date, characterSetName=null, columnKey=
+column="`field_name`","`field_type`","`field_value`","`dev_id`","`create_date`","`update_date`"

@@ -1,0 +1,7 @@
+columnName=`id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`object_card_id`, dataType=Long, characterSetName=null, columnKey=
+columnName=`check_plan_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`update_by`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`is_deleted`, dataType=Long, characterSetName=null, columnKey=
+column="`id`","`object_card_id`","`check_plan_id`","`update_time`","`update_by`","`is_deleted`"

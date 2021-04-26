@@ -1,0 +1,15 @@
+columnName=`process_detail_id`, dataType=Long, characterSetName=null, columnKey=PRI
+columnName=`order_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`order_no`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`prod_plan_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`current_process_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`next_process_id`, dataType=Long, characterSetName=null, columnKey=MUL
+columnName=`current_process`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`current_process_sort`, dataType=Long, characterSetName=null, columnKey=
+columnName=`current_plan_prd_num`, dataType=Long, characterSetName=null, columnKey=
+columnName=`plan_status`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`sso_id`, dataType=String, characterSetName=utf8, columnKey=MUL
+columnName=`employee_name`, dataType=String, characterSetName=utf8, columnKey=
+columnName=`update_time`, dataType=Date, characterSetName=null, columnKey=
+columnName=`create_time`, dataType=Date, characterSetName=null, columnKey=
+column="`process_detail_id`","`order_id`","`order_no`","`prod_plan_id`","`current_process_id`","`next_process_id`","`current_process`","`current_process_sort`","`current_plan_prd_num`","`plan_status`","`sso_id`","`employee_name`","`update_time`","`create_time`"
